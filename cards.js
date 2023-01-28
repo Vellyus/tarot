@@ -468,160 +468,163 @@ const cards = [
     ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-ace.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 37,
+    name: "Two Of Swords",
+    keywords: "Difficult decisions, weighing up options, an impasse, avoidance",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Two of Swords indicates that you are facing a challenging decision, but you are unclear about which option to take. Both possibilities may seem equally good – or equally bad – and you are stumped about which will lead you to the best outcome. You must be able to weigh up the pros and cons of each choice and then make a conscious judgment. Use both your head (your mind and the intellect) and your heart (your feelings and intuition) to choose the path that is most in alignment with your Higher Self.",
+      "In a reading, it may be helpful to draw a further two cards for either side of the Two of Swords to show what it is you are trying to decide upon or balance. You may also like to draw four more cards, for the pros and cons of each choice.",
+      "The woman in this card wears a blindfold, indicating that she cannot see the entirety of her circumstance. You may lack the information you need to make the right decisions. You may be missing something, such as the threats or potential risks, alternative solutions or critical pieces of information that would help guide you in a particular direction. Once you remove the blindfold and see the situation for what it really is, you will be in a much better position to find your best path forward. Research your options more, seek outside opinions and feedback and ask yourself what you might be missing.",
+      "It is also possible that the woman in the Two of Swords has intentionally chosen to put on the blindfold to avoid making a choice. Are you trying to hide from a challenging situation or impending decision, hoping that if you ignore it long enough, you won’t need to worry about it? Unfortunately, the issue is unlikely to resolve itself, and the longer you delay, the longer you will prolong this present situation.",
+      "Similarly, the Two of Swords can reflect indecision and an impasse on an important matter. Again, you can only put it off so long; at some point, you have to make a move.",
+      "The Two of Swords comes as a reminder that many of life’s decisions are difficult ones and rarely come with clear-cut answers. The invitation is to make your choices with your best intentions, fully aware of the possible consequences. Avoidance will lead to greater conflict and stagnation."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-02.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 38,
+    name: "Three Of Swords",
+    keywords: "Heartbreak, emotional pain, sorrow, grief, hurt",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "When the Three of Swords turns up in a Tarot reading, it signals that you are feeling deeply hurt and disappointed. Your heart has been pierced by the sharp blades of others’ hurtful words, actions and intentions, and they have inflicted intense emotions of pain, sadness, grief, and heartbreak. These events are often unexpected and come out of the blue, making them even more painful.",
+      "The Three of Swords is also about an emotional release. When you have suffered a major setback or loss, now is an excellent time to have a good cry. Expressing your sadness is part of the cleansing process and letting it all out will help you move on to better times. Allow yourself the opportunity to experience these emotions, no matter how painful. Cry, shout, or scream at the top of your lungs. Do whatever it takes to express your anger or pain as this will help the emotions flow through (and out of) you.",
+      "However, it is also essential that you continue to focus on the path ahead. You may run the risk of becoming so absorbed in the emotions swirling around you that you lose sight of the need to just let go and move on. Your focus stays locked on the damage when it should be on the recovery. Now is time to accept what happened and move forward with your life.",
+      "The Three of Swords comes as a reminder that pain, sorrow and grief are a necessary part of life. Without pain, you would never experience the challenges you need to grow and develop as a person. Every hardship creates discomfort, which inevitably turns into an opportunity to become stronger, learn from your mistakes, and change the course of your life for the better. While the pain may cloud your vision for a time, it will eventually bring clarity and enable you to put the past behind you. Can you see this experience as a learning opportunity?",
+      "The good news is that this painful season will pass. While the Three of Swords brings hurt and sadness, it is only temporary. You will bounce back. The clouds will dissipate, and soon you will have a better perspective on what you can learn from the experience. You can conquer any pain that comes your way – all it takes is faith, self-love, forgiveness and time.",
+      "The Three of Swords often arrives when you are taking others’ words to heart. You may be more prone to internet trolls, workplace bullies or spiteful strangers. Or it may be closer to home, with those you love saying hurtful words to you – just remember that you do not have to accept their words as truth; they are merely another person’s opinion or a projection of their own inner fears and anxieties. Shift the energy by looking at these people with a compassionate heart: what struggles are they going through that they feel they need to throw their insecurities at you? Be mindful, too: why are their words triggering you? Is there a more profound truth in what they've said, one you might not be willing to see just yet? Use these pain points to expand your perspective and see the bigger picture of what is happening here."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-03.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 39,
+    name: "Four Of Swords",
+    keywords: "Rest, relaxation, meditation, contemplation, recuperation",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Four of Swords tells you to rest before you take on the next challenge. You have reached an important first milestone and must recharge your energy before the next phase begins so you are refreshed and ready to go. Even if you are highly productive and driven, take time out from your busy schedule to restore your energy and heal the body and the mind. Constant stress and tension will break even the hardest and most resilient of people but brief periods of rest enable you to refresh your energy, concentration and focus so that you are ready for the next challenge.",
+      "If you have been going through tough times recently, such as the trauma of break-up or departure, relationship or family problems, financial and health worries, stress or conflict, then the Four of Swords comes as a sign to take a step back and regain perspective. Take a day off work, travel to a new destination, or spend time with your loved ones – whatever you need to take a break. Now is not the time to make decisions.",
+      "In fact, the Four of Swords presents a new challenge: to stay silent and inactive. Now is the time to build up your mental strength by clearing your mind of any mental ‘clutter’ or stress. Meditate and spend time in a place that creates peace, calm and tranquillity for you. Go on retreat or start a meditation course. You need to replenish your strength and spend time connecting with your Higher Self.",
+      "The Four of Swords suggests the need for seclusion. You need solitude to negotiate your situation and time apart from others to gather your thoughts and feelings. Following on from the painful loss of the Three of Swords, this Four suggests your need to spend time alone to re-evaluate your life. Solitude, although often difficult to bear, is necessary for you to recharge your batteries and rejuvenate your spirit. This solitary experience always bears fruit in greater inner strength and confidence. Retreat from pain, conflict and distractions, and rid yourself of stress and anxiety. Ground and re-charge yourself. Look inward for a real change and meditate daily.",
+      "In a practical sense, the Four of Swords is an indicator that you need to take some time to review your progress so far. This is an excellent time to re-assess your priorities. It is almost like conducting your own ‘post-implementation review’ following a major milestone or a significant challenge. Create time and space to evaluate what has worked well, what has not, and what you need to change. Pausing to reflect after each major challenge will position you well for success in the future."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-04.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 40,
+    name: "Five Of Swords",
+    keywords: "Conflict, disagreements, competition, defeat, winning at all costs",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Five of Swords turns up when you have had a falling out, disagreement or conflict, and you are walking away with a sense of sadness and loss. You may be upset and resentful over the heated words you said and now wish you could take back. ‘Bad blood’ and a general ‘icky-ness’ hang over you as your relations have turned sour.",
+      "Even if you won the argument or came out the apparent victor, you realise that you have lost as much as (or more than) your opponent. This battle has cost you trust, respect or dignity, and isolated you. As you try to pick up the pieces and set the conflict behind you, you find it‘s more difficult than you thought; others have lost faith in you and are keeping their distance. You will need to decide whether your point of view is so important to you that you’re willing to put your relationships in jeopardy, or if you can compromise and see eye-to-eye.",
+      "The advice of the Five of Swords is to pick your battles. You may be tempted to fight every conflict to ensure you get your way, to prove that you are right, or defend yourself when you are feeling challenged or threatened. However, most experts agree, choosing your battles wisely is a much better way of life than engaging in every disagreement. Not only will it lead to a more peaceful existence, but your interpersonal relationships are likely to come out stronger.",
+      "The Five of Swords can often indicate that you are competing with others on the path to success. You see them as threats to your own happiness, and so you seek to win at any cost.",
+      "If you have been engaged in a conflict and can see it taking its toll, the Five of Swords is an invitation to apologise. The longer you brood, or the more you try to prove you were right, the more challenging the relationship will become. Be ready to say you were wrong and make amends. There’s no sense in trying to justify your behaviour; just let it go and move on. Look for common ground with those you have been fighting with, or seek forgiveness so you can put this behind you.",
+      "The Five of Swords may also point to failure. It shows that, despite your best efforts, you are likely to be beaten or come out as the loser. If you allow yourself to become disillusioned after such a loss, then you will find yourself on the path to increased ruin and torment. Accept your defeat, and learn from it. Be smarter and wiser next time."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-05.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 41,
+    name: "Six Of Swords",
+    keywords: "Transition, change, rite of passage, releasing baggage.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Six of Swords shows that you are in a state of transition, leaving behind what was familiar and moving towards the unknown. You might be moving house, leaving a relationship, changing jobs, going through a rite of passage or a mental shift. This change may be your own doing or forced upon you, and you may feel sad to leave behind what is so familiar to you. However, you know this move is essential for your growth and personal development. The sadness over what you have lost (or released) will soon be replaced by greater mental clarity and a renewed acceptance of change. You will become a better person as a result.",
+      "The Six of Swords invites you to let go of whatever is holding you back, be it from your past or your present circumstances. Instead gaze ahead to your future and choose the way most in alignment with your Highest Good and long-term potential. You will need to make tough decisions and compromises along the way; see it as a rite of passage. You are headed towards a much better position in life, so long as you are willing to evolve and shed whatever you no longer need. Do not dwell on what gets left behind. Instead, use this as an opportunity for changing your beliefs about yourself, moving away from whom you used to be and towards whom you want to be.",
+      "Similarly, the Six of Swords asks you to reflect on any emotional or mental baggage you may carry as you move from one phase to the next. In the boat stand six upstanding swords – a sign you are still carrying a heavy weight from your past as you move forward, which might slow your personal growth. These 'swords' may be memories, relationships, habits, behaviours, thought patterns and beliefs that are no longer serving you. Decide what you need to take with you and what you can leave behind."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-06.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 42,
+    name: "Seven Of Swords",
+    keywords: "Betrayal, deception, getting away with something, acting strategically",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "Traditionally, the Seven of Swords indicates theft, betrayal, deception and trickery. You may be trying to get away with something and are sneaking around behind other people’s backs, hoping to go undetected. If you are lucky, you might get away with your secret intact. But if you are unlucky, others will soon find out what you have done, causing you shame and embarrassment. Be aware that any time you use cunning or deception to gain an advantage over someone or something else, you are at risk of being found out. And even if you are not, the cover-up will require a tremendous amount of effort, and it may not be worth it.",
+      "Alternatively, you may be the victim of someone else’s betrayal. Others are not being candid with you, and you may be unaware of their lies and deception. You may trust someone who then turns out to be running their own agenda, leaving you high and dry. Look out for any sneaky behaviour and listen to your intuition when something does not feel right or seems too good to be true.",
+      "On a more positive note, the Seven of Swords points out that you need to be strategic in what you do. You know you cannot do everything at once – nor should you. Instead, you must prioritise what’s important to you and direct your focus and attention on the few tasks that will move you closer to your goals. It’s the 80-20 rule: 20% of your work will account for 80% of your results, so focus on the 20%. You may be able to accept some responsibilities or duties, but not all of them. Or you may say ‘yes’ to some projects at the expense of others.",
+      "The Seven of Swords also suggests that you may need to use shortcuts or the ‘backdoor’ to get what you want. Rather than dutifully following the process, you may need to find ways to resolve your problem quickly so you can move towards your goals. For example, if you missed out getting into your preferred course, you might write a letter to the Dean or draw on your networks to get a mid-year entry. You may need to think on your feet and act in a way that isn’t exactly all ‘above board.’",
+      "At times the Seven of Swords suggests that you may need to put yourself first to get what you want, even if it means letting others down or putting others off-side. For example, you may be asked to travel for work to attend a high-profile event, but it would mean missing your child’s birthday, so you decline the travel opportunity, even though you know it will upset your boss. Here’s the thing: you can’t be everything to everyone, and sometimes you need to put your own needs and priorities first, even if others may not agree with you or understand where you are coming from.",
+      "The Seven of Swords could also imply that you are trying to escape from a situation that is not working for you anymore rather than dealing with it head-on. You may attempt to run away from commitment, responsibility, hard work or love. You may procrastinate, letting problems slip and become worse because you do not want to deal with them. Sometimes you just have to face what has to be faced."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-07.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 43,
+    name: "Eight Of Swords",
+    keywords: "Negative thoughts, self-imposed restriction, imprisonment, victim mentality",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Eight of Swords reveals that you feel trapped and restricted by your circumstances. You believe your options are limited with no clear path out. You might be in an unfulfilling job, an abusive relationship, a significant amount of debt or a situation way out of alignment with your inner being. You are now trapped between a rock and a hard place, with no resolution available. However, take note that the woman in the card is not entirely imprisoned by the eight swords around her, and if she wanted to escape, she could. She merely needs to remove the blindfold and free herself from the self-imposed bindings that hold her back.",
+      "When the Eight of Swords appears in a Tarot reading, it comes as a warning that your thoughts and beliefs are no longer serving you. You may be over-thinking things, creating negative patterns or limiting yourself by only considering the worst-case scenario. The more you think about the situation, the more you feel stuck and without any options. It is time to get out of your head and let go of those thoughts and beliefs holding you back. As you change your thoughts, you change your reality. Replace negative thoughts with positive ones, and you will start to create a more favourable situation for yourself.",
+      "The Eight of Swords assures you there is a way out of your current predicament – you just need a new perspective. You already have the resources you need, but it is up to you to use those resources in a way that serves you. Others may be offering you help, or there may be an alternative solution you haven’t yet fully explored. Be open to finding the answer rather than getting stuck on the problem.",
+      "The Eight of Swords is often associated with a victim mentality. You surrendered your power to an external entity, allowing yourself to become trapped and limited in some way. You may feel that it isn’t your fault – you have been placed here against your will. You may feel like the victim, waiting to be rescued, but is this energy serving you? If not, it is imperative you take back your power and personal accountability and open your eyes to the options in front of you. The fact is you do have choices, even if you do not like them. You are not powerless.",
+      "At times, the Eight of Swords indicates that you are confused about whether you should stay or go, particularly if you are in a challenging situation. It is not as clear-cut as you would like, making the decision very difficult. You have one foot in, hoping things can work out, but your other foot is out the door, ready to leave. The trouble is that you worry either option could lead to negative consequences, and so you remain stuck where you are. Again, this card is asking you to get out of your head and drop down into your gut and your intuition so you can hear your inner guidance. Your thoughts are not serving you right now, but your intuition is. Trust yourself."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-08.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 44,
+    name: "Nine Of Swords",
+    keywords: "Anxiety, worry, fear, depression, nightmares",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Nine of Swords suggests that dark thoughts and disturbing feelings are weighing you down (and keeping you up at night). You are worrying excessively about a situation, and your negative thoughts are getting the better of you, leaving you stressed and anxious. The more you associate with your fears, the more they will rule your life. As you obsess over what’s not working, the more anxious you become and the more you will worry. It becomes a negative cycle where one awful thought leads to another, and another, and another until they overwhelm you. Just as the nine swords are stacked upon each other on the wall, so too are your negative thoughts.",
+      "Be careful because the fear and worry in the Nine of Swords can become a self-fulfilling prophecy. As you obsess over what may go wrong, you are more likely to manifest your worst-case scenario because you are inadvertently acting in ways that support your negative thoughts. For example, you may worry that your partner will cheat on you, even though you’ve found no signs of infidelity. The more you stress about this potential outcome, the more your anxiety pushes away your partner, until one day, he feels so disconnected from you that he starts a new relationship with someone else. When you are repeating negative thoughts in your mind, you run the risk of manifesting them in your life. So, the Nine of Swords asks you to break the cycle. Every time a negative emotion comes up, replace it with a positive one instead.",
+      "The Nine of Swords reminds you that much of the fear and worry you are experiencing is in your head and not necessarily an accurate reflection of what is happening around you. You may make things worse for yourself by over-thinking or obsessing over the worst-case scenarios. It is time to examine your situation from a new perspective. Instead of looking for evidence of what is going wrong, put your attention on what is going right. Take a deep breath and realise that life is not as dreadful as it seems and that the more you worry, the more harm you are doing to yourself.",
+      "The Nine of Swords often crops up when worry, despair, and anxiety are quite literally keeping you up at night. You may not be sleeping well, or you are experiencing frequent nightmares. Your constant thoughts are preventing you from resting.",
+      "When the Nine of Swords appears in a reading, it is time to reach out for help. You don’t need to do this alone – enlist the support of others to help you get through this dark period of your life. Others will help you to see the light at the end of the tunnel and lead you towards a solution or a sense of peace despite your troubles. You are struggling to look at your situation clearly, as you are plagued by negative thoughts, so having an objective, third-party perspective will help you find your way out."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-09.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 45,
+    name: "Ten Of Swords",
+    keywords: "Painful endings, deep wounds, betrayal, loss, crisis",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Ten of Swords marks a painful yet inevitable ending. For example, a relationship may come to an abrupt end, your job may be cut, or a contract is broken. It is as if this ending has come out of the blue and rocked your world. You could have never expected it, but now it has happened, cutting to the core and leaving you feeling as if the world has crumbled in around you. You are grieving the pain of this shocking loss and wonder if you will ever love or find work or trust again.",
+      "When the Ten of Swords appears in a Tarot reading, you may be the victim of another person’s betrayal or deceit. You feel as if you have been stabbed in the back and are reeling from someone else’s actions. Your partner may have cheated on you, a colleague may spread nasty rumours about you, or a family member has betrayed your trust. The pain inflicted runs deep not because what they have done is hurtful, but because you know deep down that this marks the end of your relationship as you know it with them. Along with feeling the pain, you may grieve the loss of the relationship.",
+      "The Ten of Swords can suggest that you are taking on the role of ‘victim’ hoping others will pity you and save you from despair. You cannot change the actions of another person, but you can change how you respond. Even if you have been harmed or betrayed, you now have a choice to pick yourself up and move forward with your life, rather than falling down in a heap hoping someone will take pity on you.",
+      "In that way, the Ten of Swords is about letting go and accepting your current circumstances. You no longer resist change but allow it to happen, even if it causes initial pain and hurt to you. You recognise that there must be a change to facilitate renewal, and you allow it to occur rather than fighting it.",
+      "The good news is that the Ten of Swords marks the final ordeal – no more pain will come to you from that source. The hour is darkest before dawn, and you must experience the full impact of what has happened before you can move forward and start over. Is it going to be easy? No. But, will this ordeal last forever? No.",
+      "Pick yourself up off the ground and reflect upon what happened to you and why, and what you can learn from the experience. When you do this, the hurt and pain will fade, and you will soon see why all of this needed to happen so that you can evolve into your fullest potential. The pain and hurt you have endured have not gone without purpose. Use the positive power within you to learn from your pain and draw wisdom from defeat."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-10.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 46,
+    name: "Page Of Swords",
+    keywords: "New ideas, curiosity, thirst for knowledge, new ways of communicating",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Page of Swords is full of energy, passion and enthusiasm. When this card shows up in a Tarot reading, you are bursting with new ideas and plans for the future. You may be excited about starting a new project, pursuing a new approach or learning something new. You have so much energy that you feel as though you could do almost anything – and you can! The challenge, however, is whether you can keep it up. As with all Pages, the beginning always looks promising, but you need something else to follow through and keep up the pace.",
+      "The Page of Swords often emerges when you are exploring a new way of thinking – a new idea, a new perspective, new knowledge, or a new technique. You have a curious mind and a thirst for knowledge. As you explore this fresh way of thinking, you are asking lots of questions and gathering as much information as possible. You are also very much in the exploratory phase and not mastery. You may be prone to making mistakes along the way, but your curiosity means that you are eager to learn from your slip-ups.",
+      "As the Swords relate to communication, the Page of Swords suggests that you are exploring a different way of expressing yourself with others and communicating your ideas and opinions. You may be drawn to public speaking, writing a book or a blog, starting a podcast, or being more vocal on social media. You are a natural communicator and ready to take the next step to share your message with the world. Again, this is the exploratory phase, so be open to new ways of expressing yourself and discovering where your inner talents lie.",
+      "If you are looking for a sign to move ahead with a new project, the Page of Swords says, ‘Go for it!’ There will always be challenges with whatever way you choose, and not everyone will be thrilled with your choices, but when it comes down to it, you need to follow your passions and go where your true energy lies. This Page encourages you to move forward and to get the wheels in motion, despite any challenges or setbacks that might stand in the way.",
+      "The Page of Swords can also represent your relationship with a person who is exploring their ability to communicate, share ideas, and gather information. You may have your moments with this Page, as the Swords often express a level of tension or conflict, and this bundle of energy may sometimes prove too much to handle. If you need to, give yourself a break from this person, and return with fresh eyes. They have a lot to share with you, and despite their inexperience, may teach you something about yourself. You need to stay open to their enthusiasm to learn more about the world."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-page.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 47,
+    name: "Knight Of Swords",
+    keywords: "Ambitious, action-oriented, driven to succeed, fast-thinking",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "As with all Knights of the Tarot deck, the Knight of Swords is a man (or woman) on a mission – once he has his mind set on something, nothing is stopping him. And as a Swords card, this Knight actively uses the power of his intellect to achieve his goals.",
+      "When the Knight of Swords appears in a Tarot reading, it is a sign that you are highly driven, ambitious and action-oriented. You are so highly motivated to succeed that you will stop at nothing to pursue your dreams. The challenges, difficulties and obstacles on the path ahead don't faze you because you know where you want to go. Move forward with sheer strength and determination to make things happen.",
+      "The Knight of Swords suggests that you are quick to take action and tend not to plan ahead, instead preferring to dive right in. You thrive on high levels of energy that propel you forward and inspire you to take action to manifest your goals.",
+      "The Knight of Swords reminds you to be assertive in getting what you want. He doesn’t hang back and wait for something to happen. He is always making the first move and actively pursuing his goals. You can harness this energy in your life too by being proactive and forward-thinking. See yourself as the creator of your future and be ready to take the necessary steps to make it happen.",
+      "The downside of the fast-thinking, quick-acting Knight of Swords is that sometimes you act too quickly and haven’t thoroughly thought things through. You may be unaware of potential challenges and issues that will stand in your way, or the unintended consequences of your actions. You may be prone to rushing things or cutting corners to get a job done. Or, you may pursue a specific goal, thinking it is what you want, but later realise that it’s out of alignment or a dead-end. Sometimes a little planning and preparation can go a long way.",
+      "The Knight of Swords also represents your need to understand the world from an intellectual point of view. You have well-developed communication skills and can easily form solid arguments and opinions on current affairs and important matters. You love to engage with others who have similar skills so that you can share your ideas and develop new points of view. You may be best suited to discussion groups with like-minded individuals where you can fire each other up and motivate one another."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/04/ET-SWORDS-knight.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 48,
+    name: "Queen Of Swords",
+    keywords: "Independent, unbiased judgement, clear boundaries, direct communication",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Queen of Swords combines the mental clarity and intellectual power of the suit of Swords with the maturity and receptiveness of the Queen. You have the gift of being able to use your intellect and unbiased judgement while also remaining flexible and open to receive input from other sources. As you lead from the head and not the heart, you are better able to discern situations without the influence of emotion or sentimentality. You may believe that empathy or compassion towards others will distract you from the task at hand. Instead, you prefer to know the how, what, why, where, when and who of everything to help you make sense of your environment and better understand others. It is not that you do not care about others, but you connect with other people through an intellectual understanding rather than an emotional one.",
+      "The Queen of Swords notes that you are a truth-seeker. You are open to hearing the thoughts and opinions of others, but ultimately, you filter that information to decipher what is true and what is not. When interacting with others, you will not tolerate mistruths or excessive ‘fluff’. You prefer to get to the heart of the matter without engaging in too much chit-chat or gossip.",
+      "The Queen of Swords suggests that you have an innate ability to tell it like it is. You are a quick thinker and highly perceptive, piercing through the noise and confusion to get straight to the point. There is no ‘beating about the bush,’ or ‘softening’ of your comments, opinions and thoughts. You are upfront and honest in your views, and you expect the same from others. For this reason, many people respect your opinion and come to you for advice when they need clarity.",
+      "As a determined, independent and resilient person, you have established clear boundaries, and you are quick to call out someone who crosses them. People do not mess with you, not because you threaten them or inflict violence, but because you set expectations up front about how you want to be treated. Some people might be intimidated by you, but once they get past your tough exterior and develop a sense of trust and respect, they see your softer side."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-queen.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 49,
+    name: "King Of Swords",
+    keywords: "Mental clarity, intellectual power, authority, truth",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The King of Swords is a symbol of intellectual power and authority and has the courage and intellect to achieve all that he desires. When this card appears in a Tarot reading, you are in your power, ruling from a place of authority and respect. You stand firm in your truth and express yourself with deep conviction. As a result, others pay attention to what you have to say.",
+      "The King of Swords indicates that you have a clarity of mind and can perceive the truth, so it is up to you to take the lead with providing an objective point of view and making decisions based on impartial judgement. You are well-positioned to judge your situation appropriately and identify any limiting behaviours getting in the way. You are also masterful at keeping your emotions in check while you draw upon your intellectual power and mental clarity to ascertain the truth. You cut straight to the point and get to the heart of the matter for maximum efficiency and impact. While you may worry that you are not being particularly caring or sympathetic with others, this detachment is what you need most right now.",
+      "The King of Swords encourages you to use your logic and intellect to navigate the path ahead. You will need to make firm and well-researched decisions and stay fair in your dealings with others. You need to be able to take any situation, look at it with total impartiality, and then come to a balanced and insightful decision.",
+      "Often, the King of Swords represents a professional advisor, such as a solicitor or attorney, financial adviser or taxation consultant. This advisor has a solid reputation and a vast amount of knowledge in his particular field. He is impartial and will draw upon his experience and his innate understanding of the rules, systems and structures to give you well-researched advice. He may come across as detached or disinterested in your personal circumstances unless it relates specifically to his skillset. This is so he can provide only the most relevant guidance to you. He prides himself on his expertise and qualifications and is likely to charge a high fee for his services. Nonetheless, he offers the rigour and specialist knowledge that you need right now.",
+      "If you have not engaged the help of an expert, the arrival of the King of Swords suggests that it may be worthwhile getting legal or financial advice. If you are expecting changes or particular circumstances that will require an expert opinion, you can be on the front foot by seeking help before they happen. That way, when they do roll through, you are ready to demand your rights and find an outcome that benefits you. You may also benefit from finding an advocate or mentor who can provide you with smart advice."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-king.jpg"
   },
   {
     number: 0,
