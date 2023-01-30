@@ -627,172 +627,168 @@ const cards = [
     ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-SWORDS-king.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 50,
+    name: "Ace Of Pentacles",
+    keywords: "A new financial or career opportunity, manifestation, abundance",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Ace of Pentacles, like the other Aces of the Tarot, represents new beginnings, opportunities, and potential – and as a Pentacles card, these new beginnings correlate to the material world: finances, wealth, career, physical health and manifestation of your goals. You may receive a new job offer, an unexpected sum of money, a new business or investment opportunity may come your way, or you’ll have the chance to bring an idea to fruition. No matter the occasion, the Ace of Pentacles heralds a sense of prosperity and abundance in the material or financial areas of your life. It undoubtedly comes as a welcome invitation – but it is not a free ride. As with all Aces in the Tarot deck, this card illustrates the possibility of a new endeavour but does not guarantee its manifestation or success. That piece is up to you.",
+      "See the Ace of Pentacles as your ‘green light’. It marks the initial stages of manifesting your goals and assures you that you can truly achieve what you have set your mind to do. The world is your oyster and, through careful planning and determined effort, you can manifest your goals and desires. Your ideas are ready to turn into something tangible and real! This card encourages you to map out how you will achieve your ambitions, create targeted plans and get those actions underway. Keep your eyes open for chances to manifest your goals and realise your inner potential.",
+      "The Ace of Pentacles also symbolises wealth, not just for your bank account but in a holistic sense as well. You may discover opportunities to generate a new source of income or receive a financial gift or windfall. Or you may have a chance to create wealth in a broader sense – happiness, fulfilment, potential, and love. This Ace signifies abundance in all areas of your life. Enjoy it! Feel blessed and deserving of everything that comes your way. If you wish to amplify this feeling of prosperity, live by the Law of Attraction and send your positive energy and intent into the Universe so you will receive more in return."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-ace.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 51,
+    name: "Two Of Pentacles",
+    keywords: "Multiple priorities, time management, prioritisation, adaptability.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "When the Two of Pentacles appears in a Tarot reading, it’s safe to say you are juggling your priorities, roles and responsibilities. For example, you may be a working parent, a general manager of a business, an administrative assistant in a busy office, or someone who works multiple jobs. In the upright position, this card notes you are doing an excellent job of balancing these different priorities, and you can take on whatever life throws at you; but this Two reminds you that the line between coping with these demands and losing control is thin. You need to manage your time, energy and resources carefully so you do not lose your balance.",
+      "The Two of Pentacles often appears when you are busy, rushing from one thing to the next, with little downtime in between. You may tell yourself that you haven‘t got enough time or you’re in a rush. However, remember that you don’t have to be busy to get things done. Sometimes taking a break is the most productive thing you can do. Similarly, the Two of Pentacles can appear when you are getting caught up in the day-to-day demands and losing sight of the bigger picture. If this resonates, ask yourself: What life do I want? And how can I reorganise my schedule to create the life I desire?",
+      "The Two of Pentacles invites you to manage your time and your priorities carefully. Your workload is high right now, and to get everything done, you need to stay focused and productive. You may benefit from a ‘to do’ list, better calendar management and a stricter schedule. You may even enlist the support of an assistant or business coach to help you make the right changes. Basic time management is crucial to your ability to juggle these various priorities and keep your head above water. This card also reminds you to pay special attention to your general administration, including paying bills managing finances, staying on top of your commitments and maintaining your diary. Be careful that you do not miss important deadlines, meetings and other obligations.",
+      "This card calls your awareness to the concept of balance and those parts of your life where you have it (and those where you don’t). While you can strive for equilibrium, nothing ever stays in perfect harmony. For example, stabilising your work and family commitments sounds fantastic, but in reality, your family might be more high-priority one week, and work the next. So, when the Two of Pentacles appears in a Tarot reading, see it as a reminder to be patient, flexible and adaptable as you try to juggle your responsibilities with your family, friends, work, finances, health and new challenges. Be ready to swap around activities or accommodate last-minute requests. And know that if you are succeeding in one area of your life, it’s likely you’re struggling in another – that’s just a part of the balancing act!"
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-02.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 52,
+    name: "Three Of Pentacles",
+    keywords: "Teamwork, collaboration, learning, implementation.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The stonemason couldn’t build the cathedral without the help of the architects, and they couldn’t build it without him. Each person has an important role to play, and when they come together as a team, they can create something much more significant than if they were to undertake the project on their own. So, when the Three of Pentacles turns up in a Tarot reading, take it as a sign to collaborate with others, creating synergies to achieve big results.",
+      "The Three of Pentacles represents the value of different ideas and levels of experience in collaboration. The architects respect the specialised knowledge of the stonemason, and the stonemason appreciates the wisdom and experience of the architects. Even though their backgrounds, experience levels and expertise are very different, they can come together to share their insight in a way that creates synergy and improves the finished product. There is no ‘us and them’ or any sense of superiority. Instead, each person has something to offer and is willing to learn from the others involved in the project. Everyone is getting the job done collectively and contributes to the group through active listening and sharing. As you work on projects with others, acknowledge the value that each person brings to the table. You will also learn from each member of the team when you see his or her unique contribution.",
+      "The Three of Pentacles, like the Threes in the other suits, marks the initial stages of implementation that follow the Ace‘s idea phase and the planning step of the Two. You know what you want to create; you’ve laid out the plans, gathered your resources (money, people and time), and set to work – you may have already reached your first significant milestone. Of course, you are nowhere near the finish line just yet, but you have got the ball rolling and are making things happen.",
+      "As you implement your plans, you will realize that you have the skills, capabilities and resources you need to accomplish your objectives. See the Three of Pentacles as an encouragement that you are on the right track. You are competent at what you do, and you are making progress. Keep going! Adequate preparation, management and organisation are also integral components of the Three of Pentacles. Achieving significant goals, such as building a grand cathedral, requires detailed planning. This card, therefore, tells you to create a comprehensive plan and to follow a schedule. Now is when good project management will pay off."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-03.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 53,
+    name: "Four Of Pentacles",
+    keywords: "Saving money, security, conservatism, scarcity, control.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Four of Pentacles asks you to examine your relationship with money. Are you accumulating wealth and investing your money wisely while still enjoying your day-to-day life? Or are you desperately clinging to every coin, afraid to spend your money for fear that you do not have enough or could lose it forever?",
+      "In its most positive state, the Four of Pentacles suggests that you have created wealth and abundance by maintaining a steady focus on your goals and acting conservatively. You are attentive to your long-term financial security, actively saving money and watching your expenses so you can accumulate wealth and live a comfortable lifestyle not just now but also in the future. You may consider a savings plan, family budget, a retirement plan, and safe investments, so you can protect what you accumulated over time and slowly and steadily increase your net worth.",
+      "However, the Four of Pentacles typically accompanies a scarcity mindset, especially with money and material possessions. Instead of spending your cash and enjoying a comfortable lifestyle, you are choosing to stockpile your finances, for fear you might lose it all or someone else might take it away. Your budget may be so conservative or strict that it cuts out many of life’s pleasures, including travel, social occasions, gifts, or fun activities – but for what purpose? Money works best when it can flow and exchange, not when it is being stashed away. Deep down you may realise that you are foregoing happiness and fulfilment in your life because you do not want to spend any of your money and you sold out for an overly safe approach to life. If this resonates, find a healthy balance between spending and saving, so you can enjoy the fruits of your labour but also save up for the future.",
+      "The Four of Pentacles can also suggest that you are placing too much value on money and material possessions. You may be attached to material things, allowing possessions to become your life. You assess your self-worth based on how much you earn, the car you drive, how expensive your home is, and where you take your holidays. But, it’s a Catch-22 because as your standard of living increases, so too will the need to work hard to generate income to sustain this kind of lifestyle, leaving you with little time to enjoy your wealth.",
+      "The broader lesson with the Four of Pentacles is to honour and respect money and wealth but don’t become so attached that you lose sight of what’s most important to you: friends, family, happiness and love.",
+      "If you are struggling with your finances, then the Four of Pentacles comes as wise advice to manage your money and resources more carefully so that you do not live beyond your means. Make sure you do not spend more than you earn and that you have a budget and savings plan in place so you can reach your financial goals and live a secure and stable life.",
+      "Beyond money and wealth, the Four of Pentacles appears when you are seeking out more control in your life. At work, you may be micromanaging or not letting others mess around with your area. In a relationship, you may be protective – even possessive – ensuring that no one else threatens what you built. On a personal level, you may have an inflexible attitude and resist change. You may even feel more inclined to hoard your possessions. After all, you already established a way of living that works for you! Change feels like a threat to your certainty, safety and security in life. Any suggestion of doing things differently is, therefore, going to be met with resistance. So, ‘playing it safe’ may be the way to go rather than taking any risks at this point."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-04.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 54,
+    name: "Five Of Pentacles",
+    keywords: "Financial loss, poverty, lack mindset, isolation, worry.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Five of Pentacles is a card of financial loss and poverty. You have hit hard times, especially when it comes to your work, career, finances, and material possessions. You may have recently lost your job, your home, or your financial security. You no longer feel safe because it has all been stripped away from you in one blow. Your ego may also be bruised, especially since success often correlates to financial wealth; losing either can be a humbling blow to your self-esteem and sense of self-worth. The upside is that this is a Minor Arcana card with temporary effects (rather than a Major Arcana card which has a longer-term impact). This, too, shall pass.",
+      "In this time of need, the Five of Pentacles indicates that you feel isolated and alone. Just like the two people in the card, you feel as if you have been left in the cold. You may wonder, “Why is no-one coming to help me!?” It may appear as if no one cares anymore. However, since the windows in the church are lit up, help is nearby; but you are too focused on your problems to notice. You may be waiting for someone to come and help you when really, you need to be proactive and ask for help. You need to swallow your pride or let go of your fear of rejection and reach out. People are here to support you. Find them and let them know you need them.",
+      "At times, the Five of Pentacles highlights a ‘lack mindset’. You are sabotaging your ability to create abundance because you only focus on what you lack. All you can see is what is going wrong. To shift this energy, look for evidence of what you do have, even if it’s very small or seemingly insignificant, and express your gratitude for those blessings in your life. Over time, the positive aspects will continue to grow and soon, ‘lack’ and ‘not having’ will be a thing of the past.",
+      "Similarly, the Five of Pentacles suggests that you fear you don’t have ‘enough’ or you may lose something important to you – even if it hasn’t happened yet or is unlikely. For example, you may live in fear that you will lose your job and will be left in the streets with no home and no support. If you stay focused on all the negative things that might happen, then be careful, because your manifesting powers may start to create the outcomes that you don’t want. Instead, redirect your attention to what you have now and what you want in the future, so your manifesting powers get used for good."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-05.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 55,
+    name: "Six Of Pentacles",
+    keywords: "Giving, receiving, sharing wealth, generosity, charity.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "You may be like the wealthy man in this card, sharing your wealth and abundance with others. You have accumulated great wealth and are now in a position to offer financial assistance to those in need. You give generously through charitable donations, tithing or fundraising and enjoy the good feelings associated with helping others. Even if you are not financially wealthy, you offer up your time, energy, love and support to those who are in need, knowing it will be appreciated. Giving of your time or your wisdom is often just as spiritually fulfilling as giving away money or gifts, and the intangible gift of your presence is received just as well, if not better. There may be times when you wonder if you can truly afford to give generously to others – and the wise advice of the Six of Pentacles is to trust that every contribution you make is valued and will come back to you threefold.",
+      "You may also be inclined to make a loan to someone on the premise that they will eventually pay you back once they are back on their feet. This is a loan built on trust and good faith, knowing that if you give something away, it will come back to you. Remember, though, that this exchange is more about a short-term fix and not a sustainable solution. So, think about how you can financially support your family or friends in a way that encourages them towards self-sufficiency.",
+      "On the other hand, you may be on the receiving end of other people’s generosity, accepting these gifts with gratitude. This will help you to get back on your feet and to eventually repay the charitable organisation or individual, either with your time or your restored wealth. You will also need to identify ways in which you can become more self-sufficient in the long run. The risk of accepting charity is that you become dependent on it and cannot look after yourself. Be mindful that you are not growing submissive or noticeably desperate as a result of the charity that someone else is providing you.",
+      "Finally, the Six of Pentacles is a card representing financial harmony. The amounts flowing in and out are in balance, and you are thankful for what you have and happy to share with others in need."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-06.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 56,
+    name: "Seven Of Pentacles",
+    keywords: "Long-term view, sustainable results, perseverance, investment.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Seven of Pentacles shows you understand the value of putting in time and energy now for longer-term rewards and have a strong desire to invest in sustainable results. You are not looking for quick wins. You also want to make sure you are putting your attention on the right areas instead of wasting time and effort on tasks that will not deliver any value.",
+      "When this card appears in a Tarot reading, see it as an invitation to step back from the day-to-day operations and look at the bigger picture. Celebrate what you have created and assess your progress so far. Are you on track? Are you focused on the right tasks for your goal?",
+      "Similarly, if you are planning for the future, the Seven of Pentacles encourages you to take a long-term view and assess where you can best invest your time and energy for the maximum output. You do not want to keep putting your heart and soul into something if you won’t reap the rewards for your work – and you have undoubtedly seen that some areas in your life are just energy-sappers.",
+      "If you have been working hard or putting the extra effort into something challenging and important for the last few months, the endeavour or project is near its culmination. Rest assured, your hard work will pay off. You are likely to see financial or other tangible rewards for all of your hard work.",
+      "Sometimes, however, the Seven of Pentacles can indicate frustration with slow results. You have been labouring away at something important, and you may feel concerned that your efforts will go unrewarded. Be patient and appreciate the progress you have made so far. If your work has not yet paid off as planned, remember that your expectations may be unreasonable. There are no guarantees. Be grateful, focus on the present and do what you can with what you have."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-07.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 57,
+    name: "Eight Of Pentacles",
+    keywords: "Apprenticeship, repetitive tasks, mastery, skill development.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Eight of Pentacles is a card of apprenticeship and mastery. When this card appears in a Tarot reading, you are working hard to improve your skills and become a master at what you do. You may have recently changed your work, education or financial circumstances, and now you are applying your sheer determination and concentration to master the new skill that you are learning. You are diligent and hard-working and you are applying yourself fully to whatever is at the centre of your attention. As you do the same task over and over, you work your way towards mastery of your craft, and through your perseverance and unwavering attention, you create success.",
+      "The Eight of Pentacles may indicate further education or study in order to hone your skills. You may already be proficient in a particular skill set, but you are now seeking to master those skills. For example, you may be a great home cook, but now you are starting to focus your attention on fine French cuisine. Or perhaps you have learnt the basics of Tarot reading, but now you want to become a Tarot expert! You know that it will require a lot of focus and dedication in your studies, but you are willing to work hard and to pay attention to the details. You know that you will not learn these advanced skills overnight, but you are prepared for the journey towards becoming a master at your chosen expertise.",
+      "More broadly, the Eight of Pentacles suggests you are working away at the finer details of the various aspects of your life, in an effort to continuously improve your situation. You may be unhappy with your current state, and you know you need to make some important changes in your life to increase your overall satisfaction. This card is a positive sign that you are committed to making those changes and to ensuring that you give yourself the best possible chance. Overall, this is a very hard-working and conscientious energy that is present in your life.",
+      "The Eight of Pentacles is encouragement to keep doing what you are doing as it will eventually lead to success. Yes, it requires a lot of dedication, focus and patience but as each day passes and as you stay true to your values and beliefs, you get a little closer to your goal. It may not be as apparent as you may like but events are unfolding that will lead you to the right path. Continue working on yourself, too, and making ongoing improvements and adjustments to ensure that you are the best person you can be.",
+      "If you encounter this card in a reading and are not currently engaged in the active pursuit of your goals, ask yourself what you could learn or create to better yourself or your circumstances. If you are already engaged in the pursuit of new learning, the Eight of Pentacles may be a card of encouragement and reassurance that the energy you invest in your development will be worth your while."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-08.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 58,
+    name: "Nine Of Pentacles",
+    keywords: "Abundance, luxury, self-sufficiency, financial independence.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "You have worked hard to create abundance in your life, and the Nine of Pentacles says now you can finally enjoy the fruits of your labour. Thanks to your independent efforts, self-confidence and discipline, you attained a well-deserved success and created a stable foundation for your material wealth and comfort. Now, sit back, relax and enjoy the luxuries and pleasures of the good life – money, leisure time, fun, material comfort and rest. You deserve it!",
+      "When the Nine of Pentacles appears in a Tarot reading, do not be scared to splurge, indulge or pamper yourself, especially as a reward for all of your hard work. Treat yourself to a special occasion or a personal gift to celebrate your journey here. You have already achieved so much, and while you may not be at the finish line just yet, this is your opportunity to acknowledge your achievements and re-energise yourself for the final phase.",
+      "The Nine of Pentacles also speaks of financial independence. The woman in this card has created a luxurious lifestyle by her own actions and efforts. She encourages you to do the same – to create abundance and independence so that you can take care of yourself in the long-term. Invest wisely and seek financial advice to make the most of your wealth. Don’t rely on others to support you; this Nine is an independent woman.",
+      "While the suit of Pentacles typically focuses on material wealth and gain, this card also suggests that you are in harmony with the environment around you. You appreciate the beauty and abundance found in nature, and you can harness this high-vibe energy to bring pleasure into your life. You may enjoy gardening or floristry, or you may just like to pass your time in the beauty of nature with picnics or walks in the park."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-09.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 59,
+    name: "Ten Of Pentacles",
+    keywords: "Wealth, financial security, family, long-term success, contribution.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Ten of Pentacles is a positive sign that you have reached a point of completion and accomplishment in your journey. As a Pentacles card, this sense of accomplishment is likely to be the result of a successful career path, smart financial investments, a stable home environment and a possible committed and long-term relationship. You have accumulated wealth and abundance through your hard work and dedication and can now relish sharing this wealth with others. This is one of those cards that promise everything will eventually come together and you will be proud of everything you achieved.",
+      "When the Ten of Pentacles appears in a Tarot reading, you are surrounded by wealth and blessed with financial abundance. There is no ‘wanting’ for any more; you have everything you need, especially within the material realm. You are financially secure and trust that, because of your personal successes and accomplishments, you will always have what you need and desire. You express sincere gratitude for fulfilling your material goals and dreams.",
+      "This card reflects permanence and creating a lasting foundation for future success. It is a card of commitment to a sustainable future, taking into consideration not just the short-term gains of a particular venture but also the long-term benefits. A consistent approach will achieve success that will last the test of time.",
+      "The Ten of Pentacles indicates that you feel compelled to share your success with others to make sure they are well cared for, too. You worked hard to get here, and now you can see the bigger impact your accomplishments have on others. You are the ‘provider’ or the breadwinner, bringing financial security and stability to your family, ensuring they have everything they need to live a happy and comfortable life. And it brings you deep joy and satisfaction to see your loved ones enjoying your wealth and abundance.",
+      "The Ten of Pentacles is also a sign that family is very important to you. Being surrounded by the people you love and who share your DNA and ancestry brings you great joy and happiness. You know you can trust your family whole-heartedly and they will be there for you, no matter what. Your home life is happy, and you can provide your family with the security they need. You are also strongly connected to your family history and heritage, a part of the long lineage that goes before you. It represents tradition, being a part of something bigger and realising that the blood of your ancestors flows through your veins."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-10.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 60,
+    name: "Page Of Pentacles",
+    keywords: "Manifestation, financial opportunity, skill development.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Page of Pentacles, like the Pages of all four Tarot suits, brings a welcome message of new beginnings, inspiration and the initial stages of a creative project or venture. Since Pentacles rule the material realm and correspond to the element of earth, this Page symbolises a burgeoning awareness of the value of money, wealth, possessions, career, and physical health, and how to manifest more of these material blessings. You welcome new opportunities to your material life – a new job, a new business, or a financial windfall – and wish to discover how to turn your dreams into reality.",
+      "When the Page of Pentacles appears in a Tarot reading, you are tapping into your ability to manifest a personal goal or dream and may be in the midst of a new project such as a hobby, business venture, or the start of a new educational experience. You are excited about the possibilities and potential of what you put your mind to, knowing you can create whatever you want with focused intention and action.",
+      "That said, this Page does not specify the fulfilment of dreams as much as the initial motivation and energy to begin the process of turning those dreams to reality. You need to put in place clear plans for achieving your dreams and goals. Stay focused on the practical and tangible elements, keeping your feet planted on the ground and not getting carried away, always looking for the next realistic and achievable step forward. Your common sense and a pragmatic approach will lead you to a solution that works.",
+      "In the quest to materialise his dreams, the Page of Pentacles is an avid student and seeks to learn the skills that will ensure his success in the long-term. The Page of Pentacles often appears when you are ready to up-level your skills and learn something new so you can manifest your dreams. See this card as an invitation to take a class, continue your education or start an apprenticeship. Even if you are already prosperous in your current field, the Page of Pentacles encourages you to try something new and discover another aspect of yourself. The more skills you bring to your portfolio, the more goals and dreams you can achieve.",
+      "The Page of Pentacles may show that you are considering a new business or entrepreneurial venture, or you are in the initial stages of setting up the company to be financially successful and abundant in the long-term. You might be new to this, but you have the enthusiasm, commitment, and devotedness to see the project through."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-page.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 61,
+    name: "Knight Of Pentacles",
+    keywords: "Hard work, productivity, routine, conservatism.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Knight of Pentacles, like the Knights of the other suits, represents work, effort, and the responsibility that follows upon the dreams and ideals of the Page. This Knight is the most hard-working, methodical and detailed-oriented character of the Tarot deck. He may not be the most inspiring or creative Knight, but he’ll do the work to get the results he seeks, even if that work is highly repetitive or routine.",
+      "When this card appears in a Tarot reading, you are working methodically towards your goals. You have a plan in place and are sticking to your schedule to get the job done. You may not work particularly quickly, but you are consistent, dedicated and committed to your goal. Put one foot in front of the other and finish the job. This card also asks you to continue doing what you are doing, plodding along and making gradual progress. No need to change your approach. Go with the flow, stick to your usual routines, and over time, you will reach your goals.",
+      "The Knight of Pentacles shows that you are a natural planner and implementer. You envision your goal, determine the best course of action, and then stick to your path with a methodical and relentless focus. When you are in ‘implementation mode’, the job will get done, even if it requires hard work along the way. Meticulous in your approach, you make sure that everything is planned and executed down to the tiniest detail. And you will never leave a job half done. It is essential to you that you complete all assigned tasks and projects to a certain standard and that you follow through on your promises.",
+      "Sometimes, the Knight of Pentacles points to the more mundane or boring aspects of life – the daily grind, repetitive schedules, household chores, and other responsibilities and obligations. You may be assigned a project or given a task to do, and you will have to commit your time to see that project through to the end successfully. With the Knight of Pentacles, you will be required to accept responsibility without any complaints or grudges.",
+      "The Knight of Pentacles suggests that you are taking a moderated and conservative approach to life right now, and while you may be feeling that change is imminent, you are sticking to your tried and tested ways of doing things. You have established that you need routine and careful planning if you are to achieve your goals. It may not necessarily be an exciting period, but at least you know you are on the right path. Even if you are growing tired and want to quit, this Knight invites you to keep at it, and you will eventually see success."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-knight.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 62,
+    name: "Queen Of Pentacles",
+    keywords: "Nurturing, practical, providing financially, a working parent.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The Queen of Pentacles is the nurturing mother of the material world. At home, she shows her love for others by cooking nutritious meals, maintaining a clean and inviting home, and giving warm cuddles to those who need it most. She is also able to work a full-time job and make a financial contribution to the household, often as the primary breadwinner. She is masterful at taking care of the practical needs of work, home and family, while also giving her love and support to those she cares about.",
+      "When the Queen of Pentacles appears in a Tarot reading, you are embodying the ultimate working parent archetype. You care for your family and domestic responsibilities while also making a living for yourself and creating financial abundance. You can maintain a healthy balance between home and work by integrating the two and finding your place of ‘flow’ and alignment. You strive to create a warm and secure environment for your family and loved ones while giving your love and support freely.",
+      "Similarly, the Queen of Pentacles suggests that it is important to you to live independently, with a stable income and with enough time and space to also nurture your loved ones. You may be trying to strike a better balance between your home and work lives, giving it your all in both domains. At the same time, you find time for yourself and prioritise ‘me’ time in between all of your other commitments.",
+      "The Queen of Pentacles represents prosperity and security. You have worked hard to generate a level of financial or physical security, which in turn gives you the ability to be generous with others and to share your wealth and abundance with those you love. You have used your financial prosperity to build a comfortable home environment and are as focused on investing in your family as your personal wealth.",
+      "This Queen asks you to maintain a compassionate, nurturing, practical and down-to-earth attitude when dealing with others and your present circumstances. Focus on creating a calm and balanced life for yourself. Be resourceful and practical, dealing with issues as they arise using straightforward solutions that fix the problem with minimal fuss.",
+      "At times, the Queen of Pentacles may represent a mother figure in your life who can provide you with loving support and nurturing to help you get through the influences of your past. She may be a teacher, a counsellor, a mentor or someone who you are very close to. Alternatively, if you are investing a lot of yourself into nurturing and caring for others and creating an established and comfortable lifestyle, she may represent a part of you."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-queen.jpg"
   },
   {
-    number: 0,
-    name: "",
-    keywords: "",
+    number: 63,
+    name: "King Of Pentacles",
+    keywords: "Wealth, business, leadership, security, discipline, abundance.",
     desc: [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ], img: ""
+      "The King of Pentacles represents material wealth, financial abundance, and worldly success. This King is a faithful provider; he uses his ambition and confidence to create wealth for himself and others and generates his self-worth from what he has accumulated and can share with others. He is also a fatherly figure who provides others with advice, guidance and wisdom, especially in financial and work-related matters.",
+      "When the King of Pentacles appears in a Tarot reading, you are confident and successful at attracting and managing wealth. Not only do you identify opportunities for growth and success, but you also draw upon your self-discipline and control to manage your wealth and invest it wisely for the long-term.",
+      "The arrival of the King of Pentacles indicates that you can translate your vision into something tangible, practical, and often very lucrative. You are the ultimate business owner. You do not merely come up with ideas and hope for the best – you work hard to map out your plan of attack, gather your resources and manifest your goals, often with tremendous success. You are like King Midas: everything you touch turns to gold. When you apply yourself to your vision, you create huge success, particularly on a financial level. Money flows easily and abundantly to you, and as you sit at the pinnacle of your economic power and influence, you can rest assured of your continued prosperity. You no longer struggle to achieve what you desire, like the Page and the Knight, nor do you have any need to prove yourself.",
+      "The King of Pentacles often indicates the final fulfilment of a creative task, a business venture or investment. Through diligence, responsibility and attention to detail, you have achieved great things and can finally say that you have completed your task or attained your goal. You can now enjoy all that you have accomplished and the successes you have created. You have created a rich life, not just financially but also spiritually, which will set you up well for the future.",
+      "The King of Pentacles knows that a methodical, planned and well-thought-out approach will lead you to success. You have experimented in the past with what works best and have landed on your own methods and practices you know will continue to work for you in the future. Continue down this path rather than trying new ways of doing things. You do not need to take any more risks."
+    ], img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-PENTACLES-king.jpg"
   },
   {
     number: 0,
