@@ -1,8 +1,10 @@
 import './App.css'
+import { Intro } from './Intro'
+
 
 function App() {
   return (
-    "meh"
+    <Intro />
   )
 }
 
