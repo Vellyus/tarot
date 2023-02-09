@@ -1,4 +1,4 @@
-const cards = [
+export const cardData = [
   {
     number: 0,
     name: "The Fool",
