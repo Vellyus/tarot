@@ -1,3 +1,29 @@
 body {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100vh;
+}
+
+#root,
+main {
+  height: 100%;
+  width: 100%;
+
+}
+
+.introDiv {
+  /* background-color: red; */
+  height: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.introDiv p {}
+
+.readingDiv {
+  display: none;
 }
