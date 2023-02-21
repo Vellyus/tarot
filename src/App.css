@@ -5,6 +5,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   height: 100vh;
+  font-size: 10px;
   font-family: 'Nunito', sans-serif;
 }
 
@@ -12,12 +13,13 @@ body {
 main {
   height: 100%;
   width: 100%;
-
 }
 
 .introDiv {
-  /* background-color: red; */
+  margin: auto;
+  max-width: 40rem;
   height: 100%;
+  padding: 0 .5rem;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -25,8 +27,23 @@ main {
   justify-content: center;
 }
 
-.introDiv p {}
+.introDiv h1 {
+  font-size: 2.8rem;
+  margin-bottom: 3rem;
+  text-transform: uppercase;
+}
+
+.introDiv p { 
+  font-size: 1.2rem;
+   margin-bottom: 2.5rem;
+}
 
 .readingDiv {
   display: none;
+}
+
+.introDiv button {
+  font-size: 1.2rem;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
 }
