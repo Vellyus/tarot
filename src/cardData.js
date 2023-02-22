@@ -27,7 +27,7 @@ export const cardData = [
   },
   {
     number: 2,
-    name: "THe High Priestess",
+    name: "The High Priestess",
     keywords: "Intuition, sacred knowledge, divine feminine, the subconscious mind",
     desc: [
       "While The Magician is the guardian of the conscious mind and the tangible world, The High Priestess is the guardian of the subconscious mind and the teacher of sacred knowledge and hidden mysteries. Sitting at the threshold of the conscious and subconscious mind, The High Priestess has an innate ability to travel between these realms effortlessly. She teaches you that the world is not always as it seems and more profound influences are often at play. She ushers you through the thin veil of awareness, offering you a deep, intuitive understanding of the Universe and a heightened awareness of secret or hidden information.",
