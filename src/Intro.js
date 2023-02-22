@@ -1,11 +1,14 @@
+import animateScrollTo from "animated-scroll-to"
 export function Intro() {
 
   const handleStartButton = () => {
     const introDiv = document.querySelector(".introDiv")
     const readingDiv = document.querySelector(".readingDiv")
 
-    introDiv.style.display = "none"
     readingDiv.style.display = "block"
+    animateScrollTo(readingDiv, { speed: 100, easing: (t) => { return t }, minDuration: 500 }).then(hasScrolledToPosition => {
+      if (hasScrolledToPosition) introDiv.style.display = "none"
+    })
   }
   return (
     <div className="introDiv">
