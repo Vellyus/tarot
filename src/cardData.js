@@ -15,7 +15,7 @@ export const cardData = [
   },
   {
     number: 1,
-    name: "THe Magician",
+    name: "The Magician",
     keywords: "Manifestation, resourcefulness, power, inspired action",
     desc: [
       "As a master manifestor, The Magician brings you the tools, resources and energy you need to make your dreams come true. Seriously, everything you need right now is at your fingertips. You have the spiritual (fire), physical (earth), mental (air) and emotional (water) resources to manifest your desires. And when you combine them with the energy of the spiritual and earthly realms, you will become a manifestation powerhouse! The key is to bring these tools together synergistically so that the impact of what you create is greater than the separate parts. This is alchemy at its best!",
