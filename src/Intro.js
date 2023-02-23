@@ -5,19 +5,20 @@ export function Intro() {
     const readingDiv = document.querySelector(".readingDiv")
     const body = document.querySelector("body")
 
-
     readingDiv.style.display = "block"
+    readingDiv.classList.add("appeared")
     readingDiv.style.animationTimingFunction = "ease-out"
     readingDiv.style.animationFillMode = "forwards"
     readingDiv.style.animation = "fadeIn 2.5s"
     setTimeout(() => readingDiv.style.opacity = 1, 2500)
 
-
+    body.style.animationTimingFunction = "ease-out"
+    body.style.animationFillMode = "forwards"
     body.style.animation = "goUp 1.5s"
+
     introDiv.style.animationTimingFunction = "ease-out"
     introDiv.style.animationFillMode = "forwards"
-    introDiv.style.animation = "fadeOut .5s"
-
+    introDiv.style.animation = "fadeOut 1.5s"
     setTimeout(() => introDiv.style.display = "none", 1500)
   }
   return (
