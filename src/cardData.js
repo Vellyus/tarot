@@ -11,7 +11,8 @@ export const cardData = [
       "The Fool is your invitation to relax, play, and have fun. Treat life like one big experiment and feel yourself in the flow of whatever comes your way. This card asks you to embrace your beautiful, carefree spirit, allowing yourself to connect to the energy that surrounds you and flows through you. Tap into your fullest potential by stepping into a place of wonderment, curiosity and intrigue. Live life as though you were a child once again. Laugh more, dance, and let your heart go free.",
       "This is an excellent card to meditate on if you are struggling with dread, worry or self-doubt in your life. The Fool is your guide, as someone who is daring and carefree. He is the embodiment of who you really are – your free spirit, your inner child, and your playful soul. Any time you experience fear, remember the essence of The Fool as he encourages you to acknowledge that fear and do it anyway! You never know what the future holds, but like The Fool, you must step into the unknown, trusting that the Universe will catch you and escort you along the way. Take a chance and see what happens."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-00-the-Fool.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-00-the-Fool.jpg"
+    img: "cow-cards/fool.jpg"
   },
   {
     number: 1,
@@ -23,7 +24,8 @@ export const cardData = [
       "In your quest to manifest your goals, you must establish a clear vision of what you will create (and why) before you act. It is not enough to be motivated by ego (money, status, or fame) – you need to have a soul connection to your goals and intentions. You are a powerful, creative being, and this is your opportunity to bring your Higher Self in alignment with your day-to-day actions to create the future you want most.",
       "When you are clear about your ‘what’ and your ‘why’, The Magician calls on you to take inspired action. You will need focused attention and intense concentration to bring your goals to fruition. Focus on the ONE thing that will move you towards your goal. Commitment to the task is essential, so drop any distractions that may draw your focus away from what you want to achieve. Be methodical in your planning to make sure that you stay on track and carry out your tasks."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-01-Magician.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-01-Magician.jpg"
+    img: "cow-cards/magician.jpg"
   },
   {
     number: 2,
@@ -36,7 +38,9 @@ export const cardData = [
       "Now is also a time of heightened intuitive ability and psychic insight. If you are developing these skills, The High Priestess offers you further encouragement to continue your journey and trust that you are on the right path. The more you listen to your intuition, the more it will flow.",
       "Finally, The High Priestess is a signal that you are being called to embrace the Divine Feminine – your connection to your intuition, compassion, empathy, and inner wisdom. Regardless of your gender, it is vital for you to balance and integrate your masculine and feminine energies, and the presence of The High Priestess signals that your sacred feminine needs your attention right now. Feel, rather than think. Collaborate, rather than compete. Create, rather than destroy. Trust your Divine Feminine energy, even if the masculine energy around you may appear to be stronger. Be proud of your ability to nurture, trust, sense, and empathize instead of hiding it away."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-02-High-Priestess.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-02-High-Priestess.jpg"
+    img: "cow-cards/high-priestess.jpg"
+
   },
   {
     number: 3,
@@ -49,7 +53,8 @@ export const cardData = [
       "When you are in tune with the energy of The Empress, you will naturally take on her mothering nature. You feel a strong urge to nurture and care for others, from a place of loving compassion and support. You see it as a gift and an honor to tend to others, and in doing so you, too, receive benefit. In a more literal sense, you may step into the role of ‘mother’, perhaps as the mother of a newborn, caretaker of other people’s children, or spending more quality time with your kids.",
       "The Empress can also suggest pregnancy or birth. This may be an actual pregnancy or childbirth, or a metaphorical ‘birth’ of a new idea or project. Bring your creative ideas into being by nurturing them and supporting their growth. Allow those designs and their manifestation to flow through you, acting with compassion and love."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-03-The-Empress.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-03-The-Empress.jpg"
+    img: "cow-cards/empress.jpg"
   },
   {
     number: 4,
@@ -61,7 +66,8 @@ export const cardData = [
       "The Emperor reflects a system bound by rules and regulations. You create law and order by applying principles or guidelines to a specific situation. Create calm out of chaos by breaking down any problem into its parts and then mapping out the actions you need to take to resolve it. Be systematic, strategic and highly organized in your approach, and stick to your plan until the end.",
       "The Emperor card also signifies world knowledge and expertise. Through the course of your life, you have gained valuable wisdom and life experience, and now you enjoy offering guidance, advice, and direction to someone who might benefit from it. You may be a teacher, coach, boss, or just a good friend who likes to take what you have learned and pass it on so that others can be as wise and powerful as you."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-04-Emperor.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-04-Emperor.jpg"
+    img: "cow-cards/emperor.jpg"
   },
   {
     number: 5,
@@ -75,7 +81,8 @@ export const cardData = [
       "The Hierophant may call you to honor family traditions or sacred rituals that sit neglected. You are being asked to commit to spiritual practice in its most wholesome form – no customization, no adaptation, no bending the rules. If you have been lacking ritual and tradition, create a regular practice such as daily prayer or saying grace before a meal. Consider exploring your spiritual or religious heritage.",
       "The Hierophant Tarot card often speaks to group membership or being part of an institution. You may enjoy a deep sense of comfort being surrounded by people who have well-established belief systems and explicit values. Finding them may be as significant as exploring a new church or religious group, or as simple as joining a gym or online Tarot community. This card is about identifying with others and a way of thinking that will prompt further learning."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/04/MA-05-the-hierophant.png"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/04/MA-05-the-hierophant.png"
+    img: "cow-cards/hierophant.jpg"
   },
   {
     number: 6,
@@ -88,7 +95,8 @@ export const cardData = [
       "At its heart, The Lovers is about choice. The choice about who you want to be in this lifetime, how you connect with others and on what level, and about what you will and won’t stand for. To make good choices, you need to be clear about your personal beliefs and values – and stay true to them. Not all decisions will be easy either. The Lovers card is often a sign that you are facing a moral dilemma and must consider all consequences before acting. Your values system is being challenged, and you are being called to take the higher path, even if it is difficult. Do not carry out a decision based on fear or worry or guilt or shame. Now, more than ever, you must choose love – love for yourself, love for others and love for the Universe. Choose the best version of yourself.",
       "Finally, The Lovers card encourages you to unify dual forces. You can bring together two parts that are seemingly in opposition to one another and create something that is ‘whole’, unified and harmonious. In every choice, there is an equal amount of advantage and disadvantage, opportunity and challenge, positive and negative. When you accept these dualities, you build the unity from which love flows.",
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-06-the-lovers.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-06-the-lovers.jpg"
+    img: "cow-cards/lovers.jpg"
   },
   {
     number: 7,
@@ -101,7 +109,8 @@ export const cardData = [
       "The Chariot calls you to assert yourself and be courageous. Be bold in expressing your desires and laying down your boundaries; otherwise, you will not get your way. You need to have faith in yourself and know fundamentally who you are and what you stand for (thus building off the personal belief systems and values established through The Lovers card).",
       "In a very literal sense, The Chariot can represent travel, especially driving or taking a road trip. You may even be considering selling your home and buying an RV so you can head off and roam the country!"
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-07-the-chariot.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-07-the-chariot.jpg"
+    img: "cow-cards/chariot.jpg"
   },
   {
     number: 8,
@@ -113,7 +122,8 @@ export const cardData = [
       "Your strength gives you the confidence to overcome any growing fears, challenges or doubts. Feel the fear and do it anyway! If you have been going through a rough time and are burnt out or stressed, the Strength card encourages you to find the power within yourself to persevere. You have got what it takes to see this situation through to its eventual end. You’re a loyal friend and a solid supporter, willing to step up and be present when others are in need, and you might also feel compelled to hold space for someone who needs your strength and support.",
       "The Strength card urges you to ‘tame’ your animal instincts, gut reactions, and raw emotions, and channel these initial responses constructively. It’s normal for feelings such as anger, rage, sadness, guilt or shame to arise in certain situations. However, it’s what you do with these emotions that makes all the difference. Now is a time when you need to be conscious of your instinctual urges and bring them into balance with the greater good. This is no time to act out in rage or hatred. Approach your situation from a place of forgiveness, love and compassion. Working with a therapist may also help you create coping strategies for what comes up."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/04/ET-MA-08-strength.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/04/ET-MA-08-strength.jpg"
+    img: "cow-cards/strength.jpg"
   },
   {
     number: 9,
@@ -126,7 +136,8 @@ export const cardData = [
       "The Hermit also represents the desire to turn away from a consumerist or materialistic society to focus on your inner world. Have you ever seen (or read) Into the Wild? After graduating from university, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness alone. Whilst his story has a tragic ending, his journey into the wild was like that of The Hermit, who seeks answers within and knows they will come only with quiet and solitude.",
       "Finally, The Hermit may appear in your life as a spiritual mentor here to raise your vibration and enhance your consciousness. The beauty of this mentor is that, while he may be an expert in his own right, he will teach you how to find your answers within you."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-09-the-hermit.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-09-the-hermit.jpg"
+    img: "cow-cards/hermit.jpg"
   },
   {
     number: 10,
@@ -140,7 +151,8 @@ export const cardData = [
       "If you are someone who likes to have control and stability, then the Wheel of Fortune may come as a shock to the system. This Tarot card suggests that factors outside your control are influencing your situation. It is as though the Universe is dishing up whatever it pleases; it's unpredictable and unnerving. This is one of the challenging aspects of the Wheel of Fortune since no matter which way the Wheel turns, it is impossible to try to change it. You need to accept what is happening and adapt. Go with the flow!",
       "Finally, the Wheel of Fortune can show a critical turning point in your life. Opportunities you could never imagine are suddenly available to you, and you have the chance to make a significant change in your life. While it may be unexpected and unfamiliar, see this as an invitation to turn things around and take an entirely new direction in your life. The more you tune in to your intuition and allow the Universe to guide you, the better the outcomes will be."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-10-wheel-of-fortune.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-10-wheel-of-fortune.jpg"
+    img: "cow-cards/wheel-of-fortune.jpg"
   },
   {
     number: 11,
@@ -152,7 +164,8 @@ export const cardData = [
       "The Justice card often appears when you need to make an important choice with the potential for long-term repercussions. Be aware of the impact your decisions will have on your well-being and the well-being of others. Choose consciously by connecting with your inner guidance system (your intuition) and asking for the answer that is most in alignment with the highest good of all. Be ready to stand by your decisions as you will be held to account for the choices you make. You need to ask yourself, “Do I stand by my decisions and accept the consequences of my actions?” If you cannot, then dig deeper, plunging into the shadows of what is right and wrong, until you find the place where you can stand in integrity and strength.",
       "At its core, Justice is about the search for truth. As you explore your truth, you will discover that things are not as clear-cut as you had thought. Be prepared to dip into the murky waters and explore what truth means to you. Be consciously aware of what you believe to be true and what you believe to be fair and ethical. It may not be as clear-cut as you think, so prepare to challenge yourself and to explore new territories of your belief system."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/04/MA-11-justice.png"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/04/MA-11-justice.png"
+    img: "cow-cards/justice.jpg"
   },
   {
     number: 12,
@@ -165,7 +178,8 @@ export const cardData = [
       "The Hanged Man is your invitation to welcome these ‘pauses’ with open arms and surrender to the ‘what is’ – even if it is different from what you expected. Take time away from your routine to connect with a new way of thinking and seeing. Sure, you might have to put important projects on hold while you do this (and it might be super inconvenient) but trust me, it’ll be worth it. This is the Universe’s way of helping you see new perspectives and preparing you for the next uplevelling that is happening in your life. If you push or resist, you will meet more obstacles along the way; instead, ‘allow’ the opportunities to flow smoothly and effortlessly to you.",
       "The Hanged Man can sometimes reflect that you are feeling stuck or restricted in your life. What is holding you in this ‘stuck’ position? What is preventing you from moving forward? On one level, The Hanged Man is asking you to surrender and let go. Instead of investing in specific outcomes or resisting your current circumstances, accept them and allow yourself to flow with life. On another level, you are being called to change your perspective and shift your energy and may find that separating yourself from your everyday life is helpful, whether it’s going for a walk in nature, going on a retreat or moving to a new country. Change up your routine so you can start to shift your energy and flow more freely again."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/04/MA-12-the-hanged-man.png"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/04/MA-12-the-hanged-man.png"
+    img: "cow-cards/hanged-man.jpg"
   },
   {
     number: 13,
@@ -178,7 +192,8 @@ export const cardData = [
       "The Death card has elements of a sudden and unexpected change. Death happens to everyone, no matter who you are, how much money you have, where you live, or what color your skin is; it is the same with a significant change. So, the Death card can be a sign you may feel as though you are caught in the path of sweeping change and cannot escape its effects (especially if accompanied by The Tower or The Hanged Man). Although the upheaval may seem unwanted and painful, this massive change could bring with it a series of unexpected surprises that create new opportunities and advantages for you.",
       "Finally, Death is a sign that you need to learn to let go of unhealthy attachments in your life to pave the way to a fuller, more fulfilled life of deeper meaning and significance. Death teaches you to let go of outworn and outgrown ways of life and to move forward from them. This is a perfect card to break a bad habit or pattern of behavior. See this as a time to cut out excess and let go of what is unnecessary for your life. Purge the old belongings, memories and baggage that are getting in your way."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-13-Death.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-13-Death.jpg"
+    img: "cow-cards/death.jpg"
   },
   {
     number: 14,
@@ -192,7 +207,8 @@ export const cardData = [
       "The Temperance card shows that you have a clear, long-term vision of what you want to achieve. You are not rushing things along; instead, you are taking your time to ensure that you do the best job you can. You know you need a moderate, guided approach to reach your goals.",
       "Finally, this card reflects higher learning. You are learning a great deal where you are now and are at peace with what you are doing – it is all coming together well. Your inner voice is guiding you to the right outcome, and you are patiently listening and following."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-14-Temperance.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-14-Temperance.jpg"
+    img: "cow-cards/temperance.jpg"
   },
   {
     number: 15,
@@ -205,7 +221,8 @@ export const cardData = [
       "On the positive side, The Devil can also show a powerful attachment between two people, such as a mum and her newborn, or a new romance still in its ‘honeymoon phase’. Be careful though, because with The Devil card, this healthy attachment can turn into an unhealthy, co-dependent relationship if you lose connection with your inner guidance or don’t protect your personal boundaries.",
       "The Devil can also represent sexuality and your wild side. You may be exploring bondage, fetishes and your deepest, darkest fantasies. If you can do this within a safe, sacred space, it can be a very enriching experience. However, it has the potential to turn into something that may be unsafe or detrimental to your well-being in the long-term, so again, set clear boundaries, choose your partners wisely, and have your ‘safe words’ ready to go."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-15-The-Devil.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-15-The-Devil.jpg"
+    img: "cow-cards/devil.jpg"
   },
   {
     number: 16,
@@ -218,7 +235,8 @@ export const cardData = [
       "After a Tower experience, you will grow stronger, wiser and more resilient as you develop a new perspective on life you did not even know existed. These moments are necessary for your spiritual growth and enlightenment, and truth and honesty will bring about a positive change, even if you experience pain and anxiety throughout the process.",
       "Thankfully, The Tower doesn’t always associate with pain and turmoil. If you are highly aware and in tune with your inner guidance system, then this Tarot card can indicate a spiritual awakening or revelation. You may be able to see the cracks forming and take action before the whole structure comes tumbling down. You may create a massive transformation before you reach the point where change is your only option. In its most positive form, The Tower card is your opportunity to break free from the old ways of thinking that have been holding you back."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-16-The-Tower.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-16-The-Tower.jpg"
+    img: "cow-cards/tower.jpg"
   },
   {
     number: 17,
@@ -231,7 +249,8 @@ export const cardData = [
       "You may also want to find or rediscover a sense of meaning, inspiration, or purpose in your life. You are making some significant changes in your life, transforming yourself from the old you to the new you and, in doing so, you are bringing about a fresh perspective: “Out with the old and in with the new!” You are choosing the highest version of yourself. This is a profound spiritual journey that will bring greater meaning and purpose into your life and will renew your inner energy. Strip back any limiting beliefs, facades, or deceptions, and live in your authentic nature. Be open to new ideas and growth, and listen to the still voice within.",
       "The Star also suggests a generous spirit. You want to give or share your wealth with others to help transform their lives. Yours is an open heart, and you now want to give back the blessings you received so that others may benefit."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-17-The-Star.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-17-The-Star.jpg"
+    img: "cow-cards/star.jpg"
   },
   {
     number: 18,
@@ -242,7 +261,8 @@ export const cardData = [
       "The Moon can indicate a time of uncertainty and illusion, when nothing is what it seems. Be careful of making fast decisions when The Moon appears because you may later realize you only had half the information you needed. You need to listen to and trust your intuition so you can see beyond what is in front of you. Feel into situations rather than thinking what they mean. Let go of your conscious mental blocks or negative self-talk and allow your intuition to guide you. Your dreams, intuitions and inner guidance lead you forward toward higher levels of understanding if you listen and use your judgement to help interpret the messages of the subconscious.",
       "When The Moon card appears in your Tarot reading, pay close attention to the lunar cycles and attune to its divine power using ritual, visualization or Tarot readings. Connect with the divine feminine and uncover deep intuitive insights and visions of what lies beyond everyday life. On the New Moon, set your intentions and plant the seeds of opportunity so they can grow. And on the Full Moon, honor your achievements and look at what you need to release so that new aspects of yourself can shine."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-18-The-Moon.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-18-The-Moon.jpg"
+    img: "cow-cards/moon.jpg"
   },
   {
     number: 19,
@@ -254,7 +274,8 @@ export const cardData = [
       "The Sun connects you to your power base – not fear-driven, egotistical power, but the abundant, inner energy radiating through you right now. You’ll sense it in your Solar Plexus chakra, calling you to express yourself authentically and be fully present in the world around you. You have what others want and are being asked to radiate your energy and your gifts out into the world in a big way. Tap into your power and use your Divine will to express that power in positive ways.",
       "The Sun is also an energetic card. It reflects a time when you can expect to experience an increase in physical energy, vitality and general positivity. You are bursting with enthusiasm, invigorated and enjoying a wonderful sense of good health."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-19-The-Sun.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-19-The-Sun.jpg"
+    img: "cow-cards/sun.jpg"
   },
   {
     number: 20,
@@ -266,7 +287,8 @@ export const cardData = [
       "Judgement pops up in a Tarot reading when you are close to reaching a significant stage in your journey. You have reviewed and evaluated your past experiences and have learned from them. All the pieces of the puzzle of your life are finally coming together to form one, unified picture of your life story. This integration has healed deep wounds, and you are now able to put the past behind you. You have found your absolution, having cleared any wrongdoings or regrets, and releasing any guilt or sadness about the past. This purging process will leave you refreshed and ready to take on any new challenges.",
       "The Judgement card suggests that you may find comfort in sharing your struggles with others within a group environment. There will be others who have experienced something similar and who can show you the way to freedom from your troubles. Let them guide you and help you - rise together."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-20-Judgement.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-20-Judgement.jpg"
+    img: "cow-cards/judgement.jpg"
   },
   {
     number: 21,
@@ -279,7 +301,8 @@ export const cardData = [
       "If loose ends still remain, The World card asks you to bring them to completion. In doing so, you will clear the space for new beginnings and opportunities to emerge.",
       "More literally, The World can mean world travel, particularly on a large scale. You may be lucky enough to embark on a six-month overseas trip, or are working, studying or living overseas for an extended period. This card reinforces Universal understanding and global awareness, and you will find a new appreciation for people and cultures from across the world."
     ],
-    img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-21-The-World.jpg"
+    // img: "https://www.biddytarot.com/wp-content/uploads/2018/06/ET-MA-21-The-World.jpg"
+    img: "cow-cards/world.jpg"
   },
   {
     number: 22,
