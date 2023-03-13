@@ -5,7 +5,7 @@ export function Intro() {
     const readingDiv = document.querySelector(".readingDiv")
     const body = document.querySelector("body")
 
-    readingDiv.style.display = "block"
+    readingDiv.style.display = "flex"
     readingDiv.classList.add("appeared")
     readingDiv.style.animationTimingFunction = "ease-out"
     readingDiv.style.animationFillMode = "forwards"
