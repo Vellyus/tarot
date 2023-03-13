@@ -4,8 +4,13 @@ export function Intro() {
     const introDiv = document.querySelector(".introDiv")
     const readingDiv = document.querySelector(".readingDiv")
     const body = document.querySelector("body")
+    const paragraphs = document.querySelectorAll(".card p")
+    const buttons = document.querySelectorAll(".card button")
+    console.log(paragraphs)
 
-    readingDiv.style.display = "flex"
+    readingDiv.style.display = "block"
+    paragraphs[0].style.display = "block"
+    buttons[0].style.display = "initial"
     readingDiv.classList.add("appeared")
     readingDiv.style.animationTimingFunction = "ease-out"
     readingDiv.style.animationFillMode = "forwards"

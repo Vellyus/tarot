@@ -33,9 +33,9 @@ main {
   text-transform: uppercase;
 }
 
-.introDiv p { 
+.introDiv p {
   font-size: 1.2rem;
-   margin-bottom: 2.5rem;
+  margin-bottom: 2.5rem;
 }
 
 .readingDiv {
@@ -49,10 +49,6 @@ main {
   height: 100%;
   padding: 0 .5rem;
   text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
 
 .introDiv button {
@@ -61,42 +57,59 @@ main {
   cursor: pointer;
 }
 
-.readingDiv img {
-  width: 150px;
+.readingDiv h2 {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  text-transform: uppercase;
 }
+
+.readingDiv img {
+  width: 250px;
+}
+
+.card h3 {
+  font-size: 1.4rem;
+  margin-bottom: 3rem;
+}
+
+.card p,
+.card button {
+  display: none;
+}
+
 
 /* Keyframes */
 
 @keyframes goUp {
   0% {
-   transform: translateY(0);
+    transform: translateY(0);
   }
 
   100% {
-      transform: translateY(-100%);
+    transform: translateY(-100%);
   }
 }
 
 @keyframes fadeOut {
   0% {
-    opacity: 1; 
-   }
+    opacity: 1;
+  }
 
-   50% {
+  50% {
     opacity: 0;
-   }
+  }
 
   100% {
-      opacity: 0;
+    opacity: 0;
   }
 }
 
 @keyframes fadeIn {
   0% {
-    opacity: 0; 
-   }
+    opacity: 0;
+  }
 
   100% {
-      opacity: 1;
+    opacity: 1;
   }
 }
