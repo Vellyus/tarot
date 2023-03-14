@@ -6,7 +6,6 @@ export function Intro() {
     const body = document.querySelector("body")
     const paragraphs = document.querySelectorAll(".card p")
     const buttons = document.querySelectorAll(".card button")
-    console.log(paragraphs)
 
     readingDiv.style.display = "block"
     paragraphs[0].style.display = "block"
