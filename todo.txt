@@ -2,7 +2,3 @@
 - clicking on the cardDiv should reveal the card (flip over animation later)
 - clicking on the cardDiv also reveals the name and the first paragraph of the text with a read more button
 - clicking the read more button should reveal the next parapgraph (on the last one the button should disappear)
-
-DO THIS FIRST:
-- Give the Read More buttons an event listener, that reveals the next paragraph
-  -Give the buttons and paragraphs id-s / keys
