@@ -2,7 +2,10 @@ export function Card({ name, keywords, desc }) {
 
   const handleReadMore = (i) => {
     const descParagraphs = document.querySelectorAll(".descParagraph")
+    const button = document.querySelectorAll(".descParagraph button")[i]
     descParagraphs[i + 1].style.display = "block"
+    button.style.display = "none"
+
   }
 
   return (
