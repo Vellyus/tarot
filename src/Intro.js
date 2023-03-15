@@ -4,8 +4,6 @@ export function Intro() {
     const introDiv = document.querySelector(".introDiv")
     const readingDiv = document.querySelector(".readingDiv")
     const body = document.querySelector("body")
-    const paragraphs = document.querySelectorAll(".card p")
-    const buttons = document.querySelectorAll(".card button")
 
     readingDiv.style.display = "block"
     readingDiv.classList.add("appeared")

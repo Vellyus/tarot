@@ -63,9 +63,47 @@ main {
   text-transform: uppercase;
 }
 
-.readingDiv img {
-  width: 250px;
+/* Card flip effect */
+.cardImg {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
+
+.cardImgFront,
+.cardImgBack {
+  width: 250px;
+  height: 428.679px;
+  overflow: hidden;
+  backface-visibility: hidden;
+  transition: transform .6s linear;
+}
+
+.cardImgBack {
+  position: absolute;
+}
+
+.cardImgFront {
+  position: relative;
+
+}
+
+.cardImgBack img {
+  width: 100%;
+}
+
+.cardImgFront {
+  background: rgb(223, 180, 50);
+  transform: perspective(800px) rotateY(0deg);
+}
+
+.cardImgBack {
+  transform: perspective(800px) rotateY(180deg);
+}
+
+/* Card flip effect ends */
 
 .card h3 {
   font-size: 1.4rem;

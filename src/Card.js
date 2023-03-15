@@ -5,12 +5,26 @@ export function Card({ img, name, keywords, desc }) {
     const button = document.querySelectorAll(".descParagraph button")[i]
     descParagraphs[i + 1].style.display = "block"
     button.style.display = "none"
+  }
 
+  const handleCardFlip = () => {
+    const front = document.querySelector(".cardImgFront")
+    const back = document.querySelector(".cardImgBack")
+
+    front.style.transform = "perspective(800px) rotateY(-180deg)"
+    back.style.transform = "perspective(800px) rotateY(0deg)"
   }
 
   return (
     <div className="card">
-      <img src={ img } />
+      <div className="cardImg" onClick={ () => handleCardFlip() }>
+        <div className="cardImgFront">
+        </div>
+        <div className="cardImgBack">
+          <img src={ img } alt="" />
+        </div>
+      </div>
+
 
       <h3 className="name">{ name }</h3>
       <h4 className="keywords">Keywords: { keywords }</h4>
