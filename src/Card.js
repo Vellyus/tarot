@@ -1,4 +1,4 @@
-export function Card({ name, keywords, desc }) {
+export function Card({ img, name, keywords, desc }) {
 
   const handleReadMore = (i) => {
     const descParagraphs = document.querySelectorAll(".descParagraph")
@@ -10,6 +10,8 @@ export function Card({ name, keywords, desc }) {
 
   return (
     <div className="card">
+      <img src={ img } />
+
       <h3 className="name">{ name }</h3>
       <h4 className="keywords">Keywords: { keywords }</h4>
       <div className="desc">

@@ -27,8 +27,8 @@ export function Cards() {
 
   return (
     <div className="cards">
-      <img src={ randomCards[0].img } />
       <Card
+        img={ randomCards[0].img }
         name={ randomCards[0].name }
         keywords={ randomCards[0].keywords }
         desc={ randomCards[0].desc } />
