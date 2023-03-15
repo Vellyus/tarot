@@ -108,15 +108,20 @@ main {
 .card h3 {
   font-size: 1.4rem;
   margin-bottom: 3rem;
+  display: none;
+}
+
+.card h4 {
+  display: none;
 }
 
 .descParagraph {
   display: none;
 }
 
-.descParagraph:first-of-type {
+/* .descParagraph:first-of-type {
   display: block;
-}
+} */
 
 
 /* Keyframes */
