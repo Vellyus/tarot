@@ -8,8 +8,6 @@ export function Intro() {
     const buttons = document.querySelectorAll(".card button")
 
     readingDiv.style.display = "block"
-    paragraphs[0].style.display = "block"
-    buttons[0].style.display = "initial"
     readingDiv.classList.add("appeared")
     readingDiv.style.animationTimingFunction = "ease-out"
     readingDiv.style.animationFillMode = "forwards"

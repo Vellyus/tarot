@@ -5,3 +5,4 @@
 
 DO THIS FIRST:
 - Give the Read More buttons an event listener, that reveals the next paragraph
+  -Give the buttons and paragraphs id-s / keys

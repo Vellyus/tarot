@@ -72,9 +72,12 @@ main {
   margin-bottom: 3rem;
 }
 
-.card p,
-.card button {
+.descParagraph {
   display: none;
+}
+
+.descParagraph:first-of-type {
+  display: block;
 }
 
 
