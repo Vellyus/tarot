@@ -2,3 +2,5 @@
 - clicking on the cardDiv should reveal the card (flip over animation later)
 - clicking on the cardDiv also reveals the name and the first paragraph of the text with a read more button
 DONE clicking the read more button should reveal the next parapgraph (on the last one the button should disappear)
+
+- Hide read more buttons that are not needed anymore (onClikc)
