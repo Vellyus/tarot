@@ -21,9 +21,29 @@ export function Card({ img, name, keywords, desc }) {
     const keywords = document.querySelector("h4")
     const descParagraphs = document.querySelectorAll(".descParagraph")
 
-    title.style.display = "block"
-    keywords.style.display = "block"
-    descParagraphs[0].style.display = "block"
+
+    setTimeout(() => {
+      title.style.display = "block"
+      keywords.style.display = "block"
+      descParagraphs[0].style.display = "block"
+
+
+      title.style.animationTimingFunction = "ease-out"
+      title.style.animationFillMode = "forwards"
+      // title.style.animation = "fadeIn 1.5s, slideInFromBelow 1.5s"
+      title.style.animation = "fadeIn 2.5s"
+
+      keywords.style.animationTimingFunction = "ease-out"
+      keywords.style.animationFillMode = "forwards"
+      // keywords.style.animation = "fadeIn 1.5s, slideInFromBelow 1.5s"
+      keywords.style.animation = "fadeIn 2.5s"
+
+      descParagraphs[0].style.animationTimingFunction = "ease-out"
+      descParagraphs[0].style.animationFillMode = "forwards"
+      // descParagraphs[0].style.animation = "fadeIn 1.5s, slideInFromBelow 1.5s"
+      descParagraphs[0].style.animation = "fadeIn 2.5s"
+    }, 600)
+
   }
 
   return (
