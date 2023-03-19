@@ -83,27 +83,20 @@ main {
 
 .cardImgBack {
   position: absolute;
+  transform: perspective(800px) rotateY(180deg);
 }
 
 .cardImgFront {
   position: relative;
-
-}
-
-.cardImgBack img {
-  width: 100%;
-}
-
-.cardImgFront {
-  background: rgb(223, 180, 50);
   transform: perspective(800px) rotateY(0deg);
 }
 
-.cardImgBack {
-  transform: perspective(800px) rotateY(180deg);
-}
-
 /* Card flip effect ends */
+
+.cardImgFront img,
+.cardImgBack img{
+  width: 100%;
+}
 
 .card h3 {
   font-size: 1.4rem;

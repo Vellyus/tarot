@@ -51,6 +51,7 @@ export function Card({ img, name, keywords, desc }) {
     <div className="card" key={ key }>
       <div className="cardImg" onClick={ () => handleCardFlip() }>
         <div className="cardImgFront">
+          <img src="./cow-cards/background.jpg" alt="" />
         </div>
         <div className="cardImgBack">
           <img src={ img } alt="" />
