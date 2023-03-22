@@ -7,7 +7,7 @@ body {
   height: 100vh;
   font-size: 10px;
   font-family: 'Nunito', sans-serif;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 1) -10%, rgba(142, 142, 142, 1) 140%);
+  /* background: linear-gradient(0deg, rgba(0, 0, 0, 1) -10%, rgba(142, 142, 142, 1) 140%); */
 }
 
 #root,
@@ -108,23 +108,31 @@ main {
 /* Card flip effect ends */
 
 .card h3 {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   margin-bottom: 3rem;
   display: none;
 }
 
 .card h4 {
   display: none;
+  font-size: 1.2rem;
 }
 
 .descParagraph {
   display: none;
+  font-size: 1rem;
+  line-height: 1.6;
 }
 
-/* .descParagraph:first-of-type {
-  display: block;
-} */
+.desc {
+  margin-bottom: 3rem;
+}
 
+.card button {
+  font-size: 1rem;
+  padding: 0.3rem .8rem;
+  cursor: pointer;
+}
 
 /* Keyframes */
 
