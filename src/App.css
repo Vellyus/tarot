@@ -7,6 +7,7 @@ body {
   height: 100vh;
   font-size: 10px;
   font-family: 'Nunito', sans-serif;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) -10%, rgba(142, 142, 142, 1) 140%);
 }
 
 #root,
@@ -83,48 +84,47 @@ main {
 
 .cardImgBack {
   position: absolute;
-  transform: perspective(800px) rotateY(180deg);
 }
 
 .cardImgFront {
   position: relative;
+
+}
+
+.cardImgBack img,
+.cardImgFront img {
+  width: 100%;
+}
+
+.cardImgFront {
+  background: rgb(223, 180, 50);
   transform: perspective(800px) rotateY(0deg);
+}
+
+.cardImgBack {
+  transform: perspective(800px) rotateY(180deg);
 }
 
 /* Card flip effect ends */
 
-.cardImgFront img,
-.cardImgBack img{
-  width: 100%;
-}
-
 .card h3 {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   margin-bottom: 3rem;
   display: none;
 }
 
 .card h4 {
   display: none;
-  font-size: 1.2rem;
 }
 
 .descParagraph {
   display: none;
-  font-size: 1rem;
-  line-height: 1.5;
 }
 
-.desc {
-  padding-bottom: 3rem;
-}
+/* .descParagraph:first-of-type {
+  display: block;
+} */
 
-.card button {
-  font-size: 1rem;
-  padding: .4rem .8rem;
-  margin-top: 1rem;
-  margin-bottom: 15rem;
-}
 
 /* Keyframes */
 
