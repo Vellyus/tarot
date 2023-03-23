@@ -32,10 +32,16 @@ export function Cards() {
         name={ randomCards[0].name }
         keywords={ randomCards[0].keywords }
         desc={ randomCards[0].desc } />
-      {/* <img src={ randomCards[1].img } />
-      <Card name={ randomCards[1].name } />
-      <img src={ randomCards[2].img } />
-      <Card name={ randomCards[2].name } /> */}
+      {/* <Card
+        img={ randomCards[1].img }
+        name={ randomCards[1].name }
+        keywords={ randomCards[1].keywords }
+        desc={ randomCards[1].desc } />
+      <Card
+        img={ randomCards[2].img }
+        name={ randomCards[2].name }
+        keywords={ randomCards[2].keywords }
+        desc={ randomCards[2].desc } /> */}
     </div>
 
   )
