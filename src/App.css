@@ -15,6 +15,7 @@ body {
   width: 100vw;
   height: 100vh;
   /* background: linear-gradient(0deg, rgba(0, 0, 0, 1) -10vh, rgba(142, 142, 142, 1) 140vh); */
+  /* background: center / cover no-repeat url("/public/body-background.jpg"); */
   background: center / cover no-repeat url("/public/body-background.jpg");
   z-index: -2;
   overflow: hidden;
