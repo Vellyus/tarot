@@ -9,6 +9,7 @@ function App() {
       <Intro />
       <Reading />
       <div className='wrapper'></div>
+      <div className='overlay'></div>
     </main>
   )
 }

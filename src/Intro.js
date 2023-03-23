@@ -5,6 +5,7 @@ export function Intro() {
     const readingDiv = document.querySelector(".readingDiv")
     const body = document.querySelector("body")
     const wrapper = document.querySelector(".wrapper")
+    const overlay = document.querySelector(".overlay")
 
     readingDiv.style.display = "block"
     readingDiv.classList.add("appeared")
@@ -16,6 +17,10 @@ export function Intro() {
     wrapper.style.animationTimingFunction = "ease-out"
     wrapper.style.animationFillMode = "forwards"
     wrapper.style.animation = "goDown 1.5s"
+
+    overlay.style.animationTimingFunction = "ease-out"
+    overlay.style.animationFillMode = "forwards"
+    overlay.style.animation = "goDown 1.5s"
 
     body.style.animationTimingFunction = "ease-in"
     body.style.animationFillMode = "forwards"
