@@ -7,7 +7,17 @@ body {
   height: 100vh;
   font-size: 10px;
   font-family: 'Nunito', sans-serif;
-  /* background: linear-gradient(0deg, rgba(0, 0, 0, 1) -10%, rgba(142, 142, 142, 1) 140%); */
+}
+
+.wrapper {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  /* background: linear-gradient(0deg, rgba(0, 0, 0, 1) -10vh, rgba(142, 142, 142, 1) 140vh); */
+  background: center / cover no-repeat url("/public/body-background.jpg");
+  z-index: -1;
+  overflow: hidden;
 }
 
 #root,
@@ -146,6 +156,17 @@ main {
     transform: translateY(-100%);
   }
 }
+
+@keyframes goDown {
+  0% {
+    transform: translateY(0);
+  }
+
+  100% {
+    transform: translateY(100%);
+  }
+}
+
 
 @keyframes fadeOut {
   0% {

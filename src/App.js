@@ -8,6 +8,7 @@ function App() {
     <main>
       <Intro />
       <Reading />
+      <div className='wrapper'></div>
     </main>
   )
 }
