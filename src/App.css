@@ -28,6 +28,7 @@ body {
   z-index: -1;
   overflow: hidden;
   background-color: white;
+  /* background-color: rgb(253, 201, 146); */
   opacity: .75;
 }
 
