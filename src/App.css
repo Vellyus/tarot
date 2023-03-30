@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spirax&display=swap');
 
 body {
   margin: 0;
@@ -54,14 +55,19 @@ main {
 }
 
 .introDiv h1 {
-  font-size: 2.8rem;
+  font-size: 4rem;
   margin-bottom: 3rem;
-  text-transform: uppercase;
+  font-family: 'Spirax', cursive;
 }
 
 .introDiv p {
   font-size: 1.2rem;
   margin-bottom: 2.5rem;
+}
+
+.introDiv p,
+.introDiv button {
+  visibility: hidden;
 }
 
 .readingDiv {
@@ -100,7 +106,8 @@ main {
 .readingDiv h2 {
   font-size: 2rem;
   margin-bottom: 3rem;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
+  font-family: 'Spirax', cursive;
 }
 
 /* Card flip effect */
@@ -247,5 +254,21 @@ main {
 
   100% {
     transform: translateY(0);
+  }
+}
+
+@keyframes fadeInFromBelow {
+  0% {
+    transform: translateY(10rem);
+    opacity: 0;
+  }
+
+  20% {
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(0);
+    opacity: 1;
   }
 }

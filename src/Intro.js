@@ -1,3 +1,4 @@
+import { useEffect } from "react"
 export function Intro() {
 
   const handleStartButton = () => {
@@ -31,6 +32,19 @@ export function Intro() {
     introDiv.style.animation = "fadeOut 1.5s"
     setTimeout(() => introDiv.style.display = "none", 1500)
   }
+
+  useEffect(() => {
+    document.querySelector(".introDiv h1").style.animation = "fadeInFromBelow 2s ease-in-out"
+
+    setTimeout(() => {
+      document.querySelector(".introDiv p").style.animation = "fadeIn 1.5s"
+      document.querySelector(".introDiv button").style.animation = "fadeIn 1.5s"
+      document.querySelector(".introDiv p").style.visibility = "visible"
+      document.querySelector(".introDiv button").style.visibility = "visible"
+    }, 1500)
+
+  })
+
   return (
     <div className="introDiv">
       <h1>Tarot Reading</h1>
