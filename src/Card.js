@@ -21,6 +21,8 @@ export function Card({ img, name, keywords, desc }) {
     front.style.transform = "perspective(800px) rotateY(-180deg)"
     back.style.transform = "perspective(800px) rotateY(0deg)"
 
+    document.querySelector(".cardImg").style.cursor = "initial"
+
     // reveal text under the card
     const title = document.querySelector("h3")
     const keywords = document.querySelector("h4")

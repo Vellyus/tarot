@@ -79,8 +79,22 @@ main {
 
 .introDiv button {
   font-size: 1.2rem;
-  padding: 0.5rem 1.5rem;
+  padding: 0.5rem 2rem;
   cursor: pointer;
+  border-radius: 1.3rem;
+  color: #000;
+  background-color: #fffaf3;
+  border: 1px solid black;
+  transition: all .4s ease-in-out;
+  border: 1px solid black;
+  box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.75);
+}
+
+.introDiv button:hover {
+  background-color: #000;
+  color: #fffaf3;
 }
 
 .readingDiv h2 {
@@ -105,6 +119,10 @@ main {
   overflow: hidden;
   backface-visibility: hidden;
   transition: transform .6s linear;
+  box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
+
 }
 
 .cardImgBack {
@@ -155,9 +173,24 @@ main {
 
 .card button {
   font-size: 1rem;
-  padding: 0.3rem .8rem;
+  padding: 0.3rem 1.1rem;
   cursor: pointer;
   margin-bottom: 10rem;
+  border-radius: 1.3rem;
+  background-color: #fffaf3;
+  color: #000;
+  border: 1px solid black;
+  transition: all .4s ease-in-out;
+  border: 1px solid black;
+  box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.75);
+}
+
+.card button:hover {
+  background-color: #000;
+  /* color: #fffaf3; */
+  color: white;
 }
 
 /* Keyframes */
