@@ -1,8 +1,9 @@
-- Build up and style the readingDiv
+DONE Build up and style the readingDiv
 DONE clicking on the cardDiv should reveal the card (flip over animation later)
 DPNE clicking on the cardDiv also reveals the name and the first paragraph of the text with a read more button
 DONE clicking the read more button should reveal the next parapgraph (on the last one the button should disappear)
 DONE The title, keywords and first paragraph should appear with some animation
 
-Later:
-- Revealing the cards and the text below only works with one card. Refactor it so it will work with 3 cards or even more
+DONE Revealing the cards and the text below only works with one card. Refactor it so it will work with 3 cards or even more
+
+- Revealing a card pushes the content below instantly, make an animation for that
