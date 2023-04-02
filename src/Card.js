@@ -1,38 +1,37 @@
-export function Card({ img, name, keywords, desc }) {
+export function Card({ cardIndex, img, name, keywords, desc }) {
 
   let key = 0
 
-  const handleReadMore = (i) => {
-    const descParagraphs = document.querySelectorAll(".descParagraph")
-    const button = document.querySelectorAll(".descParagraph button")[i]
-    descParagraphs[i + 1].style.display = "block"
-    button.style.display = "none"
+  const handleReadMore = (e, i) => {
+    const nextParagraph = e.target.parentElement.nextSibling
+    nextParagraph.style.display = "block"
+    e.target.style.display = "none"
 
-    descParagraphs[i + 1].style.animationTimingFunction = "ease-out"
-    descParagraphs[i + 1].style.animationFillMode = "forwards"
-    descParagraphs[i + 1].style.animation = "fadeIn 1.5s, slideInFromBelow 1.5s"
-
+    nextParagraph.style.animationTimingFunction = "ease-out"
+    nextParagraph.style.animationFillMode = "forwards"
+    nextParagraph.style.animation = "fadeIn 1.5s, slideInFromBelow 1.5s"
   }
 
-  const handleCardFlip = () => {
-    const front = document.querySelector(".cardImgFront")
-    const back = document.querySelector(".cardImgBack")
+  const handleCardFlip = (e, cardIndex) => {
+    console.log(e.target.parentElement.parentElement.parentElement.children[3].children[0])
+    const fronts = document.querySelectorAll(".cardImgFront")
+    const backs = document.querySelectorAll(".cardImgBack")
 
-    front.style.transform = "perspective(800px) rotateY(-180deg)"
-    back.style.transform = "perspective(800px) rotateY(0deg)"
+    fronts[cardIndex].style.transform = "perspective(800px) rotateY(-180deg)"
+    backs[cardIndex].style.transform = "perspective(800px) rotateY(0deg)"
 
-    document.querySelector(".cardImg").style.cursor = "initial"
+    document.querySelectorAll(".cardImg")[cardIndex].style.cursor = "initial"
 
     // reveal text under the card
-    const title = document.querySelector("h3")
-    const keywords = document.querySelector("h4")
-    const descParagraphs = document.querySelectorAll(".descParagraph")
+    const title = document.querySelectorAll("h3")[cardIndex]
+    const keywords = document.querySelectorAll("h4")[cardIndex]
+    const desc = e.target.parentElement.parentElement.parentElement.children[3].children[0]
 
     setTimeout(() => {
+
       title.style.display = "block"
       keywords.style.display = "block"
-      descParagraphs[0].style.display = "block"
-
+      desc.style.display = "block"
 
       title.style.animationTimingFunction = "ease-out"
       title.style.animationFillMode = "forwards"
@@ -42,16 +41,17 @@ export function Card({ img, name, keywords, desc }) {
       keywords.style.animationFillMode = "forwards"
       keywords.style.animation = "fadeIn 1.5s, slideInFromBelow 1.5s"
 
-      descParagraphs[0].style.animationTimingFunction = "ease-out"
-      descParagraphs[0].style.animationFillMode = "forwards"
-      descParagraphs[0].style.animation = "fadeIn 1.5s, slideInFromBelow 1.5s"
+      desc.style.animationTimingFunction = "ease-out"
+      desc.style.animationFillMode = "forwards"
+      desc.style.animation = "fadeIn 1.5s, slideInFromBelow 1.5s"
+
     }, 600)
 
   }
 
   return (
-    <div className="card" key={ key }>
-      <div className="cardImg" onClick={ () => handleCardFlip() }>
+    <div className="card">
+      <div className="cardImg" onClick={ (e) => handleCardFlip(e, cardIndex) }>
         <div className="cardImgFront">
           <img src="./cow-cards/background.jpg" alt="" />
         </div>
@@ -66,7 +66,7 @@ export function Card({ img, name, keywords, desc }) {
       <div className="desc">
         { desc.map((p, i) => {
           if (i === desc.length - 1) return (<div className="descParagraph" key={ i }><p>{ p }</p></div>)
-          else return (<div className="descParagraph" key={ i }><p> { p }</p> <button onClick={ () => handleReadMore(i) }>Read More</button></div>)
+          else return (<div className="descParagraph" key={ i }><p> { p }</p> <button onClick={ (e) => handleReadMore(e, i) }>Read More</button></div>)
         }) }
       </div>
     </div>

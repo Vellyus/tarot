@@ -28,20 +28,23 @@ export function Cards() {
   return (
     <div className="cards">
       <Card
+        cardIndex={ 0 }
         img={ randomCards[0].img }
         name={ randomCards[0].name }
         keywords={ randomCards[0].keywords }
         desc={ randomCards[0].desc } />
-      {/* <Card
+      <Card
+        cardIndex={ 1 }
         img={ randomCards[1].img }
         name={ randomCards[1].name }
         keywords={ randomCards[1].keywords }
         desc={ randomCards[1].desc } />
       <Card
+        cardIndex={ 2 }
         img={ randomCards[2].img }
         name={ randomCards[2].name }
         keywords={ randomCards[2].keywords }
-        desc={ randomCards[2].desc } /> */}
+        desc={ randomCards[2].desc } />
     </div>
 
   )
