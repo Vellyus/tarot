@@ -45,6 +45,14 @@ export function Card({ cardIndex, img, name, keywords, desc }) {
       desc.style.animationFillMode = "forwards"
       desc.style.animation = "fadeIn 1.5s, slideInFromBelow 1.5s"
 
+      // hide "Click to reveal cards text when all cards are revealed"
+      const titles = document.querySelectorAll("h3")
+      const revealText = document.querySelector("h2")
+      let titlesRevealed = 0
+      for (let i = 0; i < titles.length; i++) {
+        if (titles[i].style.display === "block") titlesRevealed++
+      }
+      if (titlesRevealed === titles.length) revealText.style.display = "none"
     }, 600)
 
   }

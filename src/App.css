@@ -105,9 +105,12 @@ main {
 
 .readingDiv h2 {
   font-size: 2rem;
-  margin-bottom: 3rem;
   /* text-transform: uppercase; */
   font-family: 'Spirax', cursive;
+}
+
+.cards {
+  margin-top: 3rem;
 }
 
 /* Card flip effect */
