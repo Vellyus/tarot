@@ -13,7 +13,6 @@ export function Card({ cardIndex, img, name, keywords, desc }) {
   }
 
   const handleCardFlip = (e, cardIndex) => {
-    console.log(e.target.parentElement.parentElement.parentElement.children[3].children[0])
     const fronts = document.querySelectorAll(".cardImgFront")
     const backs = document.querySelectorAll(".cardImgBack")
 
