@@ -1,7 +1,5 @@
 export function Card({ cardIndex, img, name, keywords, desc }) {
 
-  let key = 0
-
   const handleReadMore = (e, i) => {
     const nextParagraph = e.target.parentElement.nextSibling
     nextParagraph.style.display = "block"
