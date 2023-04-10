@@ -275,3 +275,11 @@ main {
     opacity: 1;
   }
 }
+
+/* Media queries */
+
+@media (max-width: 1500px) {
+  .wrapper {
+    background: center / cover no-repeat url("/public/small-body-background.jpg");
+  }
+}
