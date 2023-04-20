@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tartot/static/css/main.891b47fd.css",
+    "main.js": "/tartot/static/js/main.3d624d08.js",
+    "static/media/body-background.jpg": "/tartot/static/media/body-background.13a250c6ece618fffb74.jpg",
+    "static/media/small-body-background.jpg": "/tartot/static/media/small-body-background.abf34cf1ff6eccb8b2d6.jpg",
+    "index.html": "/tartot/index.html",
+    "main.891b47fd.css.map": "/tartot/static/css/main.891b47fd.css.map",
+    "main.3d624d08.js.map": "/tartot/static/js/main.3d624d08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.891b47fd.css",
+    "static/js/main.3d624d08.js"
+  ]
+}
