@@ -46,7 +46,6 @@ export function Cards() {
         keywords={ randomCards[2].keywords }
         desc={ randomCards[2].desc } /> */}
     </div>
-
   )
 }
 

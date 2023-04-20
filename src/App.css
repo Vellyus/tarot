@@ -15,8 +15,6 @@ body {
   top: 0;
   width: 100vw;
   height: 100vh;
-  /* background: linear-gradient(0deg, rgba(0, 0, 0, 1) -10vh, rgba(142, 142, 142, 1) 140vh); */
-  /* background: center / cover no-repeat url("/public/body-background.jpg"); */
   background: center / cover no-repeat url("/public/body-background.jpg");
   z-index: -2;
   overflow: hidden;
@@ -30,7 +28,6 @@ body {
   z-index: -1;
   overflow: hidden;
   background-color: white;
-  /* background-color: rgb(253, 201, 146); */
   opacity: .75;
 }
 
@@ -105,7 +102,6 @@ main {
 
 .readingDiv h2 {
   font-size: 2rem;
-  /* text-transform: uppercase; */
   font-family: 'Spirax', cursive;
 }
 
@@ -114,6 +110,7 @@ main {
 }
 
 /* Card flip effect */
+
 .cardImg {
   cursor: pointer;
   display: flex;
@@ -132,7 +129,6 @@ main {
   box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.75);
-
 }
 
 .cardImgBack {
@@ -141,7 +137,6 @@ main {
 
 .cardImgFront {
   position: relative;
-
 }
 
 .cardImgBack img,
@@ -199,7 +194,6 @@ main {
 
 .card button:hover {
   background-color: #000;
-  /* color: #fffaf3; */
   color: white;
 }
 
@@ -224,7 +218,6 @@ main {
     transform: translateY(100%);
   }
 }
-
 
 @keyframes fadeOut {
   0% {

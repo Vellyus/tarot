@@ -42,7 +42,6 @@ export function Intro() {
       document.querySelector(".introDiv p").style.visibility = "visible"
       document.querySelector(".introDiv button").style.visibility = "visible"
     }, 1500)
-
   })
 
   return (

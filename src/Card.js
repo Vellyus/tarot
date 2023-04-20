@@ -1,6 +1,6 @@
 export function Card({ cardIndex, img, name, keywords, desc }) {
 
-  const handleReadMore = (e, i) => {
+  const handleReadMore = (e) => {
     const nextParagraph = e.target.parentElement.nextSibling
     nextParagraph.style.display = "block"
     e.target.style.display = "none"
@@ -51,7 +51,6 @@ export function Card({ cardIndex, img, name, keywords, desc }) {
       }
       if (titlesRevealed === titles.length) revealText.style.display = "none"
     }, 600)
-
   }
 
   return (
@@ -64,7 +63,6 @@ export function Card({ cardIndex, img, name, keywords, desc }) {
           <img src={ img } alt="" />
         </div>
       </div>
-
 
       <h3 className="name">{ name }</h3>
       <h4 className="keywords">Keywords: { keywords }</h4>
