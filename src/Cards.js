@@ -1,8 +1,6 @@
 import { cardData } from "./cardData"
 import { Card } from "./Card"
 
-const majorArcana = cardData.filter(card => card.number < 21)
-
 export function Cards() {
 
   function getRandomCards() {
@@ -16,8 +14,7 @@ export function Cards() {
       return array
     }
 
-    // const cardsInRandomOrder = shuffleArray(cardData)
-    const cardsInRandomOrder = shuffleArray(majorArcana)
+    const cardsInRandomOrder = shuffleArray(cardData)
 
     const randomCards = [cardsInRandomOrder[0], cardsInRandomOrder[1], cardsInRandomOrder[2]]
     return randomCards
@@ -33,7 +30,7 @@ export function Cards() {
         name={ randomCards[0].name }
         keywords={ randomCards[0].keywords }
         desc={ randomCards[0].desc } />
-      {/* <Card
+      <Card
         cardIndex={ 1 }
         img={ randomCards[1].img }
         name={ randomCards[1].name }
@@ -44,7 +41,7 @@ export function Cards() {
         img={ randomCards[2].img }
         name={ randomCards[2].name }
         keywords={ randomCards[2].keywords }
-        desc={ randomCards[2].desc } /> */}
+        desc={ randomCards[2].desc } />
     </div>
   )
 }
